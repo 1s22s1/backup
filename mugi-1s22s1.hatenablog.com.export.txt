@@ -1,0 +1,637 @@
+AUTHOR: mugi-1s22s1
+TITLE: Star Survivorのクリア
+BASENAME: 2023/12/23/171655
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 12/23/2023 17:16:55
+-----
+BODY:
+<p>チャレンジのブラッドラストをクリアしたので、満足しました。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: マルクス・ガブリエルの哲学 
+BASENAME: 2023/12/23/092609
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 12/23/2023 09:26:09
+-----
+BODY:
+<p>難しすぎて２章、総譜とパフォーマンス、解釈と意味付けで挫折しました。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 苦手の認識
+BASENAME: 2023/12/20/214143
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 12/20/2023 21:41:43
+-----
+BODY:
+<p><a class="keyword" href="https://d.hatena.ne.jp/keyword/%A5%DA%A5%A2%A5%D7%A5%ED">ペアプロ</a>が苦手だなぁ〜と思っていたけど、もう少し詳細に書くと人に見られながらコードを書くのが苦手だと認識しました。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: ２０２３年１２月１９日
+BASENAME: 2023/12/20/090332
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 12/20/2023 09:03:32
+-----
+BODY:
+<p>水没<a class="keyword" href="https://d.hatena.ne.jp/keyword/%A5%B8%A5%AA%A5%E9%A5%DE">ジオラマ</a>店に行った。とても良かった。</p>
+
+<p>また、夕食に始めて大盛りラーメンをたべた。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 経済学のすすめ――人文知と批判精神の復権
+BASENAME: 2023/12/15/212449
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 12/15/2023 21:24:49
+-----
+BODY:
+<p>を途中まで読みました。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 声の情報量
+BASENAME: 2023/12/10/085946
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 12/10/2023 08:59:46
+-----
+BODY:
+<p><a class="keyword" href="https://d.hatena.ne.jp/keyword/%BC%E3%C4%D0%C0%E9%B2%C6">若槻千夏</a>さんの声は聞きやすくて情報量が少なくて良いというお話をしました。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: はじめてのウィトゲンシュタイン
+BASENAME: 2023/12/09/121323
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 12/09/2023 12:13:23
+-----
+BODY:
+<p>とっても面白かったです。第二章第三節　「像」による幻惑としての哲学的混乱で分からなくなったので、一旦閉じます。</p>
+
+<p>人生の浮き沈みの激しさもさることながら、節々から所謂天才の片鱗を感じております。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: サラダの作り方
+BASENAME: 2023/12/04/234153
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 12/04/2023 23:41:53
+-----
+BODY:
+<p>カットキャベツと<a class="keyword" href="https://d.hatena.ne.jp/keyword/%A5%DF%A5%CB%A5%C8%A5%DE%A5%C8">ミニトマト</a>。</p>
+
+<p>以上です。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 餃子のタレの作り方
+BASENAME: 2023/11/27/135433
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 11/27/2023 13:54:33
+-----
+BODY:
+<p><a class="keyword" href="https://d.hatena.ne.jp/keyword/%CC%A3%A5%DD%A5%F3">味ポン</a>とごま油を混ぜると良いらしいです。</p>
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: Visual Studio Codeで使っている拡張機能(2023年4月10日)
+BASENAME: 2023/10/25/070015
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 10/25/2023 07:00:15
+-----
+BODY:
+<p><a class="keyword" href="https://d.hatena.ne.jp/keyword/Visual%20Studio%20Code">Visual Studio Code</a>で使っている<a class="keyword" href="https://d.hatena.ne.jp/keyword/%B3%C8%C4%A5%B5%A1%C7%BD">拡張機能</a>を紹介する。普段、Juliaと<a class="keyword" href="https://d.hatena.ne.jp/keyword/Ruby">Ruby</a>を使っています。</p>
+
+<h2 id="拡張機能一覧"><a class="keyword" href="https://d.hatena.ne.jp/keyword/%B3%C8%C4%A5%B5%A1%C7%BD">拡張機能</a>一覧</h2>
+
+<ul>
+<li>file-icons</li>
+<li>Japanese Language Pack for <a class="keyword" href="https://d.hatena.ne.jp/keyword/Visual%20Studio%20Code">Visual Studio Code</a></li>
+<li>Julia</li>
+<li>Noctis</li>
+<li><a class="keyword" href="https://d.hatena.ne.jp/keyword/Ruby">Ruby</a></li>
+<li><a class="keyword" href="https://d.hatena.ne.jp/keyword/Ruby">Ruby</a> Solargraph</li>
+<li><a class="keyword" href="https://d.hatena.ne.jp/keyword/VSCode">VSCode</a> <a class="keyword" href="https://d.hatena.ne.jp/keyword/Ruby">Ruby</a></li>
+</ul>
+
+
+<p>以上。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: コード書きの練習 一日目(中央値の実装)
+BASENAME: 2023/10/25/065928
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 10/25/2023 06:59:28
+-----
+BODY:
+<p>プログラミングに苦手意識があります。。。ということで、練習することにしました。一日目の題材は、中央値の実装です。</p>
+
+<p>定義は <a href="https://mathlandscape.com/quartile/">https://mathlandscape.com/quartile/</a> を参考にしました。</p>
+
+<h2 id="やってみた">やってみた</h2>
+
+<pre class="code lang-ruby" data-lang="ruby" data-unlink><span class="synComment"># frozen_string_literal: true</span>
+
+<span class="synPreProc">require</span> <span class="synSpecial">'</span><span class="synConstant">rspec</span><span class="synSpecial">'</span>
+
+<span class="synPreProc">def</span> <span class="synIdentifier">median</span>(a_n)
+  length = a_n.length
+
+  <span class="synStatement">if</span> length.even?
+    ((a_n[length / <span class="synConstant">2</span> - <span class="synConstant">1</span>] + a_n[length / <span class="synConstant">2</span>]) / <span class="synConstant">2.0</span>).round(<span class="synConstant">2</span>)
+  <span class="synStatement">else</span>
+    a_n[length / <span class="synConstant">2</span>]
+  <span class="synStatement">end</span>
+<span class="synPreProc">end</span>
+
+<span class="synType">RSpec</span>.describe <span class="synSpecial">'</span><span class="synConstant">コード書きの練習</span><span class="synSpecial">'</span> <span class="synStatement">do</span>
+  describe <span class="synSpecial">'</span><span class="synConstant">#median</span><span class="synSpecial">'</span> <span class="synStatement">do</span>
+    subject { median(a_n) }
+
+    context <span class="synSpecial">'</span><span class="synConstant">要素の個数が１個の場合</span><span class="synSpecial">'</span> <span class="synStatement">do</span>
+      let(<span class="synConstant">:a_n</span>) { [<span class="synConstant">1</span>] }
+
+      it { is_expected.to eq <span class="synConstant">1</span> }
+    <span class="synStatement">end</span>
+
+    context <span class="synSpecial">'</span><span class="synConstant">要素の個数が２個の場合</span><span class="synSpecial">'</span> <span class="synStatement">do</span>
+      let(<span class="synConstant">:a_n</span>) { [<span class="synConstant">1</span>, <span class="synConstant">2</span>] }
+
+      it { is_expected.to eq <span class="synConstant">1.5</span> }
+    <span class="synStatement">end</span>
+
+    context <span class="synSpecial">'</span><span class="synConstant">要素の個数が３個の場合</span><span class="synSpecial">'</span> <span class="synStatement">do</span>
+      let(<span class="synConstant">:a_n</span>) { [<span class="synConstant">1</span>, <span class="synConstant">2</span>, <span class="synConstant">3</span>] }
+
+      it { is_expected.to eq <span class="synConstant">2</span> }
+    <span class="synStatement">end</span>
+
+    context <span class="synSpecial">'</span><span class="synConstant">要素の個数が４個の場合</span><span class="synSpecial">'</span> <span class="synStatement">do</span>
+      let(<span class="synConstant">:a_n</span>) { [<span class="synConstant">1</span>, <span class="synConstant">2</span>, <span class="synConstant">3</span>, <span class="synConstant">4</span>] }
+
+      it { is_expected.to eq <span class="synConstant">2.5</span> }
+    <span class="synStatement">end</span>
+
+    context <span class="synSpecial">'</span><span class="synConstant">要素の個数が５個の場合</span><span class="synSpecial">'</span> <span class="synStatement">do</span>
+      let(<span class="synConstant">:a_n</span>) { [<span class="synConstant">1</span>, <span class="synConstant">2</span>, <span class="synConstant">3</span>, <span class="synConstant">4</span>, <span class="synConstant">5</span>] }
+
+      it { is_expected.to eq <span class="synConstant">3</span> }
+    <span class="synStatement">end</span>
+  <span class="synStatement">end</span>
+<span class="synStatement">end</span>
+</pre>
+
+
+<h2 id="雑記">雑記</h2>
+
+<p>明日は、四分位数の実装をする予定です。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: ソースコードの先頭に名言を書くのはどうだろうか？
+BASENAME: 2023/10/23/074117
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 10/23/2023 07:41:17
+-----
+BODY:
+<p>洋書の場合、章の最初に名言が書いてある。主要な<a class="keyword" href="https://d.hatena.ne.jp/keyword/%A5%BD%A1%BC%A5%B9%A5%B3%A1%BC%A5%C9">ソースコード</a>の先頭に書くのはどうだろうか？</p>
+
+<h2 id="例">例</h2>
+
+<pre class="code lang-ruby" data-lang="ruby" data-unlink><span class="synComment"># 春さればしだり柳のとををにも妹は心に乗りにけるかも(『万葉集巻10 1896』 柿本人麻呂)</span>
+
+<span class="synPreProc">module</span> <span class="synType">StringExtension</span>
+  <span class="synPreProc">refine</span> <span class="synType">String</span> <span class="synStatement">do</span>
+    <span class="synPreProc">def</span> <span class="synIdentifier">social_distance</span>
+      split(<span class="synSpecial">''</span>).join(<span class="synSpecial">'</span><span class="synConstant"> </span><span class="synSpecial">'</span>)
+    <span class="synPreProc">end</span>
+  <span class="synStatement">end</span>
+<span class="synPreProc">end</span>
+</pre>
+
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: プログラミング言語言葉
+BASENAME: 2023/10/23/074013
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 10/23/2023 07:40:13
+-----
+BODY:
+<p><a class="keyword" href="https://d.hatena.ne.jp/keyword/%B2%D6%B8%C0%CD%D5">花言葉</a>と同様の概念で、<a class="keyword" href="https://d.hatena.ne.jp/keyword/%A5%D7%A5%ED%A5%B0%A5%E9%A5%DF%A5%F3%A5%B0%B8%C0%B8%EC">プログラミング言語</a>言葉を提案します。以下は、Chat GPTと一緒に考えた<a class="keyword" href="https://d.hatena.ne.jp/keyword/%A5%D7%A5%ED%A5%B0%A5%E9%A5%DF%A5%F3%A5%B0%B8%C0%B8%EC">プログラミング言語</a>言葉になります。</p>
+
+<table>
+<thead>
+<tr>
+<th><a class="keyword" href="https://d.hatena.ne.jp/keyword/%A5%D7%A5%ED%A5%B0%A5%E9%A5%DF%A5%F3%A5%B0%B8%C0%B8%EC">プログラミング言語</a></th>
+<th>言葉</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a class="keyword" href="https://d.hatena.ne.jp/keyword/Perl">Perl</a></td>
+<td>繁栄</td>
+</tr>
+<tr>
+<td><a class="keyword" href="https://d.hatena.ne.jp/keyword/Haskell">Haskell</a></td>
+<td>忠義</td>
+</tr>
+<tr>
+<td><a class="keyword" href="https://d.hatena.ne.jp/keyword/Java">Java</a></td>
+<td>慎重</td>
+</tr>
+<tr>
+<td>Rust</td>
+<td>富貴</td>
+</tr>
+<tr>
+<td><a class="keyword" href="https://d.hatena.ne.jp/keyword/Python">Python</a></td>
+<td>秘密</td>
+</tr>
+<tr>
+<td>Go</td>
+<td>美しい心</td>
+</tr>
+</tbody>
+</table>
+
+
+<p>皆様が考えた、<a class="keyword" href="https://d.hatena.ne.jp/keyword/%A5%D7%A5%ED%A5%B0%A5%E9%A5%DF%A5%F3%A5%B0%B8%C0%B8%EC">プログラミング言語</a>言葉も教えてくださいませ。以上となります。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: Object#in?のサンプルコードには、らき☆すたがひそんでいる
+BASENAME: 2023/10/23/073853
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 10/23/2023 07:38:53
+-----
+BODY:
+<p><a href="https://api.rubyonrails.org/classes/Object.html#method-i-in-3F">Object#in?</a>のサンプルコードを眺めていて気づきました。こなた、かがみ、つかさがいることに。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: Visual Studio Codeで使っている拡張機能(2023年4月26日)
+BASENAME: 2023/10/23/073807
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 10/23/2023 07:38:07
+-----
+BODY:
+<p><a class="keyword" href="https://d.hatena.ne.jp/keyword/Visual%20Studio%20Code">Visual Studio Code</a>で使っている<a class="keyword" href="https://d.hatena.ne.jp/keyword/%B3%C8%C4%A5%B5%A1%C7%BD">拡張機能</a>を紹介します。普段、Juliaと<a class="keyword" href="https://d.hatena.ne.jp/keyword/Ruby">Ruby</a>を使っています。</p>
+
+<h2 id="拡張機能一覧"><a class="keyword" href="https://d.hatena.ne.jp/keyword/%B3%C8%C4%A5%B5%A1%C7%BD">拡張機能</a>一覧</h2>
+
+<ul>
+<li>D2</li>
+<li>file-icons</li>
+<li>Japanese Language Pack for <a class="keyword" href="https://d.hatena.ne.jp/keyword/Visual%20Studio%20Code">Visual Studio Code</a></li>
+<li>Julia</li>
+<li>Noctis</li>
+<li><a class="keyword" href="https://d.hatena.ne.jp/keyword/Ruby">Ruby</a></li>
+<li><a class="keyword" href="https://d.hatena.ne.jp/keyword/Ruby">Ruby</a> Solargraph</li>
+<li><a class="keyword" href="https://d.hatena.ne.jp/keyword/VSCode">VSCode</a> <a class="keyword" href="https://d.hatena.ne.jp/keyword/Ruby">Ruby</a></li>
+</ul>
+
+
+<p>以上。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 名前候補
+BASENAME: 2023/10/23/073700
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 10/23/2023 07:37:00
+-----
+BODY:
+<p>ライブラリにつける名前の候補です。</p>
+
+<ul>
+<li>みそしる</li>
+<li>がらす</li>
+<li>電森（かんだちもり）</li>
+<li>花水（はなみづ）</li>
+<li>羽衣（はごろも）</li>
+<li>一ツ葉（<a class="keyword" href="https://d.hatena.ne.jp/keyword/%A4%D2%A4%C8%A4%C4%A4%D0">ひとつば</a>）</li>
+<li>水見色（みずみいろ）</li>
+<li>夜焚（よだき）</li>
+</ul>
+
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 読みたい本2023春
+BASENAME: 2023/10/23/073550
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 10/23/2023 07:35:50
+-----
+BODY:
+<ul>
+<li><a class="keyword" href="https://d.hatena.ne.jp/keyword/%C0%B5%B5%AC%C9%BD%B8%BD">正規表現</a>技術入門 ――最新エンジン実装と理論的背景</li>
+<li><a class="keyword" href="https://d.hatena.ne.jp/keyword/%A5%D7%A5%ED%A5%B0%A5%E9%A5%DE%A1%BC">プログラマー</a>脳 ～優れた<a class="keyword" href="https://d.hatena.ne.jp/keyword/%A5%D7%A5%ED%A5%B0%A5%E9%A5%DE%A1%BC">プログラマー</a>になるための<a class="keyword" href="https://d.hatena.ne.jp/keyword/%C7%A7%C3%CE%B2%CA%B3%D8">認知科学</a>に基づくアプローチ</li>
+</ul>
+
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 素数言葉
+BASENAME: 2023/10/23/073459
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 10/23/2023 07:34:59
+-----
+BODY:
+<p><a class="keyword" href="https://d.hatena.ne.jp/keyword/%B2%D6%B8%C0%CD%D5">花言葉</a>と同様の概念で、<a class="keyword" href="https://d.hatena.ne.jp/keyword/%C1%C7%BF%F4">素数</a>言葉を提案します。以下は、100以下の<a class="keyword" href="https://d.hatena.ne.jp/keyword/%C1%C7%BF%F4">素数</a>の<a class="keyword" href="https://d.hatena.ne.jp/keyword/%C1%C7%BF%F4">素数</a>言葉になります。</p>
+
+<table>
+<thead>
+<tr>
+<th><a class="keyword" href="https://d.hatena.ne.jp/keyword/%C1%C7%BF%F4">素数</a></th>
+<th><a class="keyword" href="https://d.hatena.ne.jp/keyword/%C1%C7%BF%F4">素数</a>言葉</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2</td>
+<td>新しい始まり</td>
+</tr>
+<tr>
+<td>3</td>
+<td>連帯と協力</td>
+</tr>
+<tr>
+<td>5</td>
+<td>調和と平和</td>
+</tr>
+<tr>
+<td>7</td>
+<td>安定と信頼</td>
+</tr>
+<tr>
+<td>11</td>
+<td>五感の認識</td>
+</tr>
+<tr>
+<td>13</td>
+<td>家族と愛</td>
+</tr>
+<tr>
+<td>17</td>
+<td>幸福と祝福</td>
+</tr>
+<tr>
+<td>19</td>
+<td>繁栄と成功</td>
+</tr>
+<tr>
+<td>23</td>
+<td>創造性と知恵</td>
+</tr>
+<tr>
+<td>29</td>
+<td>完全と成熟</td>
+</tr>
+<tr>
+<td>31</td>
+<td>夢と目標</td>
+</tr>
+<tr>
+<td>37</td>
+<td>調整と調整</td>
+</tr>
+<tr>
+<td>41</td>
+<td>運の転換</td>
+</tr>
+<tr>
+<td>43</td>
+<td>革新と変化</td>
+</tr>
+<tr>
+<td>47</td>
+<td>感謝と謙虚さ</td>
+</tr>
+<tr>
+<td>53</td>
+<td>冒険と冒険心</td>
+</tr>
+<tr>
+<td>59</td>
+<td>自己発見と<a class="keyword" href="https://d.hatena.ne.jp/keyword/%BC%AB%B8%CA%B7%BC%C8%AF">自己啓発</a></td>
+</tr>
+<tr>
+<td>61</td>
+<td>成熟と<a class="keyword" href="https://d.hatena.ne.jp/keyword/%C3%D2%B7%C5">智慧</a></td>
+</tr>
+<tr>
+<td>67</td>
+<td>希望と信仰</td>
+</tr>
+<tr>
+<td>71</td>
+<td>自己受容とバランス</td>
+</tr>
+<tr>
+<td>73</td>
+<td>素晴らしい可能性</td>
+</tr>
+<tr>
+<td>79</td>
+<td>創造的な力</td>
+</tr>
+<tr>
+<td>83</td>
+<td>意味と目的</td>
+</tr>
+<tr>
+<td>89</td>
+<td>安心と安全</td>
+</tr>
+<tr>
+<td>97</td>
+<td>豊かな未来</td>
+</tr>
+</tbody>
+</table>
+
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: カタカナ語の言い換え(定期更新)
+BASENAME: 2023/10/23/073418
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 10/23/2023 07:34:18
+-----
+BODY:
+<p><a class="keyword" href="https://d.hatena.ne.jp/keyword/%A5%AB%A5%BF%A5%AB%A5%CA%B8%EC">カタカナ語</a>の言い換えについて記載致します。</p>
+
+<table>
+<thead>
+<tr>
+<th><a class="keyword" href="https://d.hatena.ne.jp/keyword/%A5%AB%A5%BF%A5%AB%A5%CA%B8%EC">カタカナ語</a></th>
+<th>日本語</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ステータス</td>
+<td>状態</td>
+</tr>
+<tr>
+<td>メリデメ</td>
+<td>利害得失</td>
+</tr>
+<tr>
+<td>レビュー</td>
+<td>確認</td>
+</tr>
+<tr>
+<td>スコープ</td>
+<td>範囲</td>
+</tr>
+<tr>
+<td>デザイン</td>
+<td>見た目</td>
+</tr>
+<tr>
+<td>ルーム</td>
+<td>部屋</td>
+</tr>
+<tr>
+<td>ドキュメント</td>
+<td>資料</td>
+</tr>
+<tr>
+<td>マニュアル</td>
+<td>手動</td>
+</tr>
+<tr>
+<td>コンフリクト</td>
+<td>衝突</td>
+</tr>
+<tr>
+<td>ケース</td>
+<td>項目</td>
+</tr>
+<tr>
+<td>プロジェクト</td>
+<td>案件</td>
+</tr>
+<tr>
+<td>インデント</td>
+<td>段落</td>
+</tr>
+</tbody>
+</table>
+
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: Visual Studio Codeで使っている拡張機能(2023年9月7日)
+BASENAME: 2023/10/23/073333
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 10/23/2023 07:33:33
+-----
+BODY:
+<p><a class="keyword" href="https://d.hatena.ne.jp/keyword/Visual%20Studio%20Code">Visual Studio Code</a>で使っている<a class="keyword" href="https://d.hatena.ne.jp/keyword/%B3%C8%C4%A5%B5%A1%C7%BD">拡張機能</a>を紹介します。普段、GoとJuliaを使っています。</p>
+
+<h2 id="拡張機能一覧"><a class="keyword" href="https://d.hatena.ne.jp/keyword/%B3%C8%C4%A5%B5%A1%C7%BD">拡張機能</a>一覧</h2>
+
+<ul>
+<li>Edit <a class="keyword" href="https://d.hatena.ne.jp/keyword/csv">csv</a></li>
+<li><a class="keyword" href="https://d.hatena.ne.jp/keyword/GitHub">GitHub</a> Actions</li>
+<li>Go</li>
+<li>Helium Icon Theme</li>
+<li>Julia</li>
+<li>Noctis</li>
+<li>Prettier <a class="keyword" href="https://d.hatena.ne.jp/keyword/SQL">SQL</a> <a class="keyword" href="https://d.hatena.ne.jp/keyword/VSCode">VSCode</a></li>
+</ul>
+
+
+<p>以上。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: Visual Studio Codeで使っている拡張機能(2023年9月26日)
+BASENAME: 2023/10/23/073239
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 10/23/2023 07:32:39
+-----
+BODY:
+<p><a class="keyword" href="https://d.hatena.ne.jp/keyword/Visual%20Studio%20Code">Visual Studio Code</a>で使っている<a class="keyword" href="https://d.hatena.ne.jp/keyword/%B3%C8%C4%A5%B5%A1%C7%BD">拡張機能</a>を紹介します。普段、GoとJuliaを使っています。</p>
+
+<h2 id="拡張機能一覧"><a class="keyword" href="https://d.hatena.ne.jp/keyword/%B3%C8%C4%A5%B5%A1%C7%BD">拡張機能</a>一覧</h2>
+
+<ul>
+<li>endwise</li>
+<li><a class="keyword" href="https://d.hatena.ne.jp/keyword/GitHub">GitHub</a> Actions</li>
+<li>Helium Icon Theme</li>
+<li>Julia</li>
+<li>Noctis</li>
+<li><a class="keyword" href="https://d.hatena.ne.jp/keyword/Ruby">Ruby</a></li>
+<li><a class="keyword" href="https://d.hatena.ne.jp/keyword/VSCode">VSCode</a> <a class="keyword" href="https://d.hatena.ne.jp/keyword/Ruby">Ruby</a></li>
+</ul>
+
+
+-----
+--------
