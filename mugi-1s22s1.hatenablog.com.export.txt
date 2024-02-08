@@ -1,4 +1,2359 @@
 AUTHOR: mugi-1s22s1
+TITLE: 英単語のメモ
+BASENAME: 2024/02/08/204450
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/08/2024 20:44:50
+-----
+BODY:
+<ul>
+<li>todder、幼児</li>
+<li>ore、鉱石</li>
+<li>fluffy、ふわふわ</li>
+<li>bounty、報奨金</li>
+<li>urn、骨壺</li>
+</ul>
+
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 直近
+BASENAME: 2024/02/07/184023
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/07/2024 18:40:23
+-----
+BODY:
+<p>身体と頭の感覚が繋がっているようで、嬉しい。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 良いお話だよね
+BASENAME: 2024/02/07/183849
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/07/2024 18:38:49
+-----
+BODY:
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fanond.hatelabo.jp%2F20210603221108" title="北方謙三とメンタルヘルスと" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://anond.hatelabo.jp/20210603221108">anond.hatelabo.jp</a></cite></p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 疲れていると
+BASENAME: 2024/02/07/181356
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/07/2024 18:13:56
+-----
+BODY:
+<p>疲れていると精神的に大変な物事を無意識的に避けていると思いました。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 供養します
+BASENAME: 2024/02/06/220135
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/06/2024 22:01:35
+-----
+BODY:
+<p>次を供養しました。</p>
+
+<ul>
+<li>始めてのGo言語</li>
+<li>Good Code, Bad Code</li>
+<li>マルドゥック・<a class="keyword" href="https://d.hatena.ne.jp/keyword/%A5%A2%A5%CE%A5%CB%A5%DE%A5%B9">アノニマス</a> 1</li>
+</ul>
+
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 供養
+BASENAME: 2024/02/06/195257
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/06/2024 19:52:57
+-----
+BODY:
+<p>The essence of softwareを供養しました。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 分かるとなてり
+BASENAME: 2024/02/06/191625
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/06/2024 19:16:25
+-----
+BODY:
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fikura-lab.hatenablog.com%2Fentry%2F2019%2F12%2F04%2F231802" title="退職して無職になってた - ikura1&#39;s log" class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://ikura-lab.hatenablog.com/entry/2019/12/04/231802">ikura-lab.hatenablog.com</a></cite></p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 今日から
+BASENAME: 2024/02/06/091256
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/06/2024 09:12:56
+-----
+BODY:
+<p>今日から、毎朝９時から働くぜよ（動くぜよ）</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 英単語の覚書
+BASENAME: 2024/02/05/203439
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/05/2024 20:34:39
+-----
+BODY:
+<ul>
+<li>tavern(居酒屋)</li>
+<li><a class="keyword" href="https://d.hatena.ne.jp/keyword/rogue">rogue</a>(ならず者)</li>
+<li>patronus(守護霊)</li>
+<li>projectile(発射体)</li>
+</ul>
+
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: GitHubの新しいフォントが良い感じ
+BASENAME: 2024/02/05/200104
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/05/2024 20:01:04
+-----
+BODY:
+<p>みんなも使ってみてね。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: こういうの好きなんだよね
+BASENAME: 2024/02/05/134840
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/05/2024 13:48:40
+-----
+BODY:
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fanond.hatelabo.jp%2F20210417084131" title="悪くない人生だった" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://anond.hatelabo.jp/20210417084131">anond.hatelabo.jp</a></cite></p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: スクラムマスターの思い出
+BASENAME: 2024/02/05/123351
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/05/2024 12:33:51
+-----
+BODY:
+<p><a class="keyword" href="https://d.hatena.ne.jp/keyword/%A5%B9%A5%AF%A5%E9%A5%E0">スクラム</a>マスターは、性格が良い人が良いのか、悪い人が良いのか。私は、毎日怒鳴られていて辛かったです。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 家事のコスト
+BASENAME: 2024/02/03/085230
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/03/2024 08:52:30
+-----
+BODY:
+<p>人によって家事のコストが全然違うなと思いました。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: これ、私苦手かもな〜
+BASENAME: 2024/02/03/081643
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/03/2024 08:16:43
+-----
+BODY:
+<p><blockquote data-conversation="none" class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">「信じる」だと能動的すぎるので「疑わない」という受動的な表現のほうが合う気はします。また疑いが生じた場合に「周りに合わせる」という能力も同程度に重要でしょう。</p>&mdash; ktrst (@ktrst) <a href="https://twitter.com/ktrst/status/1064799897910722561?ref_src=twsrc%5Etfw">2018年11月20日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  </p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 好きな日本語
+BASENAME: 2024/02/02/162611
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/02/2024 16:26:11
+-----
+BODY:
+<p><blockquote data-conversation="none" class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">「<a class="keyword" href="https://d.hatena.ne.jp/keyword/%A5%B7%A5%E2%A1%BC%A5%CC%A1%A6%A5%F4%A5%A7%A5%A4%A5%E6">シモーヌ・ヴェイユ</a>や<a class="keyword" href="https://d.hatena.ne.jp/keyword/%A5%F4%A5%A3%A5%C8%A5%B2%A5%F3%A5%B7%A5%E5%A5%BF%A5%A4%A5%F3">ヴィトゲンシュタイン</a>も普通に働いた経験がある」、声に出して読みたい日本語だな🐦</p>&mdash; ニー仏 (@neetbuddhist) <a href="https://twitter.com/neetbuddhist/status/1753204522598674874?ref_src=twsrc%5Etfw">2024年2月1日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  </p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: デンジャー・クロース　極限着弾
+BASENAME: 2024/02/02/161018
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/02/2024 16:10:18
+-----
+BODY:
+<p>面白かったよ。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 旦那から動きの効率が悪いと指摘がある
+BASENAME: 2024/02/02/091005
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/02/2024 09:10:05
+-----
+BODY:
+<p>旦那から動きの効率が悪いと指摘がありました。背景としては、すぐ注意がそらされるからなんだよね。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 好きだと思ったものは、実は違うみたい
+BASENAME: 2024/02/02/090859
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/02/2024 09:08:59
+-----
+BODY:
+<p>小銭じゃらじゃら入れるのが好きだと思っていたけど、疲れていて計算したくないからみたい。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 職質を受けてしまった
+BASENAME: 2024/02/02/090401
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/02/2024 09:04:01
+-----
+BODY:
+<p>体調が悪い時に受けがち。２回目です。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 思ったこと
+BASENAME: 2024/02/01/101610
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/01/2024 10:16:10
+-----
+BODY:
+<p>机の上、僕の脳みそみたいだ。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: Deadly Daysで月旅行をした
+BASENAME: 2024/02/01/101541
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/01/2024 10:15:41
+-----
+BODY:
+<p>クリアしたぜ。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: ティアキン
+BASENAME: 2024/01/31/220619
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/31/2024 22:06:19
+-----
+BODY:
+<p>ちょっと<a class="keyword" href="https://d.hatena.ne.jp/keyword/%A4%A6%A4%C4%BE%F5%C2%D6">うつ状態</a>の時にやったので、つまらなかった。調子が良い時にもう一度最初からやりたい。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 本日
+BASENAME: 2024/01/31/220415
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/31/2024 22:04:15
+-----
+BODY:
+<p>急に予定が変わって、疲れました。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 好きなこと
+BASENAME: 2024/01/31/220334
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/31/2024 22:03:34
+-----
+BODY:
+<p>自動レジに小銭をじゃらじゃら入れるのが好き。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 苦手なものは苦手なまま
+BASENAME: 2024/01/31/220256
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/31/2024 22:02:56
+-----
+BODY:
+<p>大学の成績をみて、<a class="keyword" href="https://d.hatena.ne.jp/keyword/%C0%FE%B7%C1%C2%E5%BF%F4">線形代数</a>や<a class="keyword" href="https://d.hatena.ne.jp/keyword/%C5%C5%BC%A7%B5%A4%B3%D8">電磁気学</a>が苦手なままだと思いました。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 機動戦士ガンダムSEED FREEDOMを見て
+BASENAME: 2024/01/31/215559
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/31/2024 21:55:59
+-----
+BODY:
+<p>物語が分かるとなった。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 他人からみた私
+BASENAME: 2024/01/31/215446
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/31/2024 21:54:46
+-----
+BODY:
+<p>自分自身の感情を大切にするらしいです。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: ゴジラ1.0の感想らしいです
+BASENAME: 2024/01/31/215341
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/31/2024 21:53:41
+-----
+BODY:
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fanond.hatelabo.jp%2F20231106230016" title="ゴジラみた。	感想。	面白かった。	でもシナリオに違和感。	もし自分がアメ.." class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://anond.hatelabo.jp/20231106230016">anond.hatelabo.jp</a></cite></p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: たまにやっています
+BASENAME: 2024/01/31/215252
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/31/2024 21:52:52
+-----
+BODY:
+<p><blockquote data-conversation="none" class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">まな板出すのめんどくてここで切ったけど俺の中の土井先生が「食べる人が笑顔ならそれでええんとちがいますか」と言ってくれた <a href="https://t.co/NHujquPXYX">pic.twitter.com/NHujquPXYX</a></p>&mdash; 吉田 (@xxxlililxxx) <a href="https://twitter.com/xxxlililxxx/status/1752267204127793489?ref_src=twsrc%5Etfw">2024年1月30日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  </p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 分かるとなてり
+BASENAME: 2024/01/31/215220
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/31/2024 21:52:20
+-----
+BODY:
+<p><blockquote data-conversation="none" class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">最近の考え事として，「自分の世界に対する認識の発達って平均的な人々の発達よりも数年ぐらい遅れているような気がするな～」というものがあり，少なく見積もって3年，酷く見積もって7年ほどギャップがありそう</p>&mdash; ふくさん (@fukusanity) <a href="https://twitter.com/fukusanity/status/1335877695670870018?ref_src=twsrc%5Etfw">2020年12月7日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  </p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 幸せ実感都市
+BASENAME: 2024/01/31/102841
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/31/2024 10:28:41
+-----
+BODY:
+<p>ながのは、そうらしいです。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 頭は痛くならないから、調子が悪いか分からないがち
+BASENAME: 2024/01/31/100357
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/31/2024 10:03:57
+-----
+BODY:
+<p><blockquote data-conversation="none" class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">よく頭が壊れることがあり、認知能力が著しく落ちることがある。過労は良くないね</p>&mdash; ふくさん (@fukusanity) <a href="https://twitter.com/fukusanity/status/1752359755597926450?ref_src=twsrc%5Etfw">2024年1月30日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  </p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 楽しいこと探し
+BASENAME: 2024/01/31/100317
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/31/2024 10:03:17
+-----
+BODY:
+<p>頑張りたい。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: フレミッシュジャイアントに会いたい
+BASENAME: 2024/01/31/100236
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/31/2024 10:02:36
+-----
+BODY:
+<p><blockquote data-conversation="none" class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">フレミッシュ<a class="keyword" href="https://d.hatena.ne.jp/keyword/%A5%B8%A5%E3%A5%A4%A5%A2%A5%F3">ジャイアン</a>ト(<a class="keyword" href="https://d.hatena.ne.jp/keyword/%A5%D5%A5%E9%A5%F3%A5%C0%A1%BC%A5%B9%A4%CE%B8%A4">フランダースの犬</a>で有名な)<a class="keyword" href="https://d.hatena.ne.jp/keyword/%A5%D5%A5%E9%A5%F3%A5%C0%A1%BC%A5%B9">フランダース</a>地方の品種。今のベルギーゲント市。1910年頃までほとんど注目されなかった。平均約7キログラムで最大22キロ。従順で忍耐強いためペットとしても飼われている。<br> <a href="https://t.co/JANFUdL9KL">pic.twitter.com/JANFUdL9KL</a></p>&mdash; 島野智之（動物<a class="keyword" href="https://d.hatena.ne.jp/keyword/%CA%AC%CE%E0%B3%D8">分類学</a>）Satoshi <a class="keyword" href="https://d.hatena.ne.jp/keyword/SHIMANO">SHIMANO</a>, Professor, Hosei Univ. (@freeliving_mite) <a href="https://twitter.com/freeliving_mite/status/1751932271316398358?ref_src=twsrc%5Etfw">2024年1月29日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  </p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: はてなブログのリンクを削除する方法
+BASENAME: 2024/01/31/095613
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/31/2024 09:56:13
+-----
+BODY:
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fstart100.hatenablog.com%2Fentry%2F2019%2F08%2F12%2F170000" title="【はてなブログ】サイドバーのリンクを変更しよう - ブログが続かない方が10年書き続ける方法" class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://start100.hatenablog.com/entry/2019/08/12/170000">start100.hatenablog.com</a></cite></p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 分かるとなてり
+BASENAME: 2024/01/31/095430
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/31/2024 09:54:30
+-----
+BODY:
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fsizu.me%2Flaiso%2Fposts%2Fmasxw63zamo5" title="視座を上げない自由｜laiso" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://sizu.me/laiso/posts/masxw63zamo5">sizu.me</a></cite></p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 備忘録
+BASENAME: 2024/01/31/095353
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/31/2024 09:53:53
+-----
+BODY:
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fsskdlawyer.hatenablog.com%2Fentry%2F2024%2F01%2F29%2F010147" title="感情を荒らげることなく淡々とした口調で話していても、アカデミックハラスメントが成立するとされた例 - 弁護士　師子角允彬のブログ" class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://sskdlawyer.hatenablog.com/entry/2024/01/29/010147">sskdlawyer.hatenablog.com</a></cite></p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: ChatGPT with プログラミング
+BASENAME: 2024/01/30/090720
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/30/2024 09:07:20
+-----
+BODY:
+<p>ChatGPTは、プログラミングの相棒です。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 供養
+BASENAME: 2024/01/30/075542
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/30/2024 07:55:42
+-----
+BODY:
+<p>供養します。</p>
+
+<ul>
+<li><a class="keyword" href="https://d.hatena.ne.jp/keyword/%C8%AF%C3%A3%BE%E3%B3%B2">発達障害</a>「グレーゾーン」</li>
+<li><a class="keyword" href="https://d.hatena.ne.jp/keyword/%C8%AF%C3%A3%BE%E3%B3%B2">発達障害</a>「グレーゾーン」生き方レッスン</li>
+<li>隋</li>
+<li>現代語訳<a class="keyword" href="https://d.hatena.ne.jp/keyword/%B3%D8%CC%E4%A4%CE%A4%B9%A4%B9%A4%E1">学問のすすめ</a></li>
+</ul>
+
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: マジッククラフトの近況
+BASENAME: 2024/01/29/231204
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/29/2024 23:12:04
+-----
+BODY:
+<p>３回クリアしました。満足したので、終わりということにします。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 最近楽しかったこと
+BASENAME: 2024/01/29/230747
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/29/2024 23:07:47
+-----
+BODY:
+<ul>
+<li>紅白のブラックビスケットの音楽を聞いた</li>
+<li><a class="keyword" href="https://d.hatena.ne.jp/keyword/%B0%EC%B6%B6%C2%E7%B3%D8">一橋大学</a>の学祭のライブに行った</li>
+</ul>
+
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 結構、救われるね
+BASENAME: 2024/01/29/162421
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/29/2024 16:24:21
+-----
+BODY:
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fanond.hatelabo.jp%2F20170227161628" title="ADHDで管理職をやっている者なんだが" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://anond.hatelabo.jp/20170227161628">anond.hatelabo.jp</a></cite></p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 新発見
+BASENAME: 2024/01/29/155516
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/29/2024 15:55:16
+-----
+BODY:
+<p>日によって食べ物の味が変わるなぁ〜。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 良いお話
+BASENAME: 2024/01/29/154718
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/29/2024 15:47:18
+-----
+BODY:
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Ftwitter.com%2Fi%2Fbookmarks%3Fpost_id%3D1615583202126479360" title="ワン・チャン・アルディ (@WangChangHardy) on X" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://twitter.com/i/bookmarks?post_id=1615583202126479360">twitter.com</a></cite></p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: ピクセルアートが好き
+BASENAME: 2024/01/29/131940
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/29/2024 13:19:40
+-----
+BODY:
+<p><blockquote data-conversation="none" class="twitter-tweet" data-lang="ja"><p lang="it" dir="ltr">simple crystal tutorial <a href="https://twitter.com/hashtag/pixelart?src=hash&amp;ref_src=twsrc%5Etfw">#pixelart</a> <a href="https://t.co/rax3QIVhK9">pic.twitter.com/rax3QIVhK9</a></p>&mdash; Emil (@EmilPixel) <a href="https://twitter.com/EmilPixel/status/1751694581270282520?ref_src=twsrc%5Etfw">2024年1月28日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  </p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: AtCoderでのパフォーマンス
+BASENAME: 2024/01/29/131712
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/29/2024 13:17:12
+-----
+BODY:
+<p>調子が悪いと２５０前後、普通だと５００から６００くらいだと認識しました。早く茶色コーダーになりたい。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: ABC337
+BASENAME: 2024/01/28/180949
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/28/2024 18:09:49
+-----
+BODY:
+<h2 id="A---Capitalized">A - Capitalized?</h2>
+
+<p>先頭が大文字で、それ以外が小文字の<a class="keyword" href="https://d.hatena.ne.jp/keyword/%A5%A2%A5%B9%A5%AD%A1%BC">アスキー</a>文字であることを判定する。</p>
+
+<h2 id="B---Frequency">B - Frequency</h2>
+
+<p>文字種類ごとにカウントして、アルファベット順に並び替えて、最初の要素を出力する。</p>
+
+<h2 id="C---Leftover-Recipes">C - Leftover Recipes</h2>
+
+<p>材料ごとに不等式を作ってループ範囲を制限したが、オーダーを倒せず。固定して全探索すれば良かったのですね。まだまだ、全探索問題は苦手です。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 救われた
+BASENAME: 2024/01/28/081520
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/28/2024 08:15:20
+-----
+BODY:
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fanond.hatelabo.jp%2F20220117131920" title="少しでも助けになるなら私の生存方法を書いてみる。		 前提				 ADHD である		 .." class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://anond.hatelabo.jp/20220117131920">anond.hatelabo.jp</a></cite></p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 気持ちが分かるとなてり
+BASENAME: 2024/01/28/075034
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/28/2024 07:50:34
+-----
+BODY:
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fsizu.me%2Fsilviase%2Fposts%2Frtrv3nnbn642" title="振り返りとその他愚痴 2023年 2024年 抱負未満の何か｜silviase" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://sizu.me/silviase/posts/rtrv3nnbn642">sizu.me</a></cite></p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: グミ言葉
+BASENAME: 2024/01/27/170946
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/27/2024 17:09:46
+-----
+BODY:
+<p>グミ言葉というものを考えた。</p>
+
+<ul>
+<li>赤グミ、水族館にいきませんか</li>
+<li>青グミ、美術館にいきませんか</li>
+<li>緑グミ、ドライブにいきませんか</li>
+</ul>
+
+
+<p>みなさんも使ってみてください。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 外ご飯の楽しみ
+BASENAME: 2024/01/27/170500
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/27/2024 17:05:00
+-----
+BODY:
+<p>公園のベンチとかで食べるの楽しいよね。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: メモの供養２
+BASENAME: 2024/01/27/102359
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/27/2024 10:23:59
+-----
+BODY:
+<p>セブンでコーヒーを飲めるようになった、とある。ちょっとメモの書き方を工夫しないとそのタイミングで考えていたことが分からなくなるね。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: メモの供養
+BASENAME: 2024/01/27/102241
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/27/2024 10:22:41
+-----
+BODY:
+<p>「触れえ」とだけあった。何を考えていたのだろうか？</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 私のストレス反応２０２３年１月
+BASENAME: 2024/01/27/101709
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/27/2024 10:17:09
+-----
+BODY:
+<ul>
+<li>柿の種を一袋全て食べてしまう</li>
+<li>歩きながら<a class="keyword" href="https://d.hatena.ne.jp/keyword/Twitter">Twitter</a>をする</li>
+<li><a class="keyword" href="https://d.hatena.ne.jp/keyword/%A4%CF%A4%C6%A4%CA%A5%D6%A5%C3%A5%AF%A5%DE%A1%BC%A5%AF">はてなブックマーク</a>をよく読む。</li>
+</ul>
+
+
+<p>以上となります。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: ラーメンが美味しかった
+BASENAME: 2024/01/27/101554
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/27/2024 10:15:54
+-----
+BODY:
+<p>昨日、らーめん味噌まるに行ったらとても美味しかったです。久しぶりに食べ物の味がしたなぁ。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 定期的に感情がなくなる
+BASENAME: 2024/01/27/101353
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/27/2024 10:13:53
+-----
+BODY:
+<p>これって、鬱かどうか心配です。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: １２月、こういう感じで疲れてしまった
+BASENAME: 2024/01/27/101147
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/27/2024 10:11:47
+-----
+BODY:
+<p><blockquote data-conversation="none" class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">職場ででけー声で自分の悪口言う人がいたら職場が嫌になるだろうなーってのはわかるんだけど、いまは家で毎日でけー声で自分の悪口言う人がいて狂う以外の選択肢がない</p>&mdash; ᔛ (@sth_salty) <a href="https://twitter.com/sth_salty/status/1748717754587533592?ref_src=twsrc%5Etfw">2024年1月20日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  </p>
+
+<p><blockquote data-conversation="none" class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">1個のことを改善したら10個グチグチ言われるの、信用のリボ払いだな</p>&mdash; ᔛ (@sth_salty) <a href="https://twitter.com/sth_salty/status/1748719885298159866?ref_src=twsrc%5Etfw">2024年1月20日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  </p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 悲しかったこと
+BASENAME: 2024/01/27/101047
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/27/2024 10:10:47
+-----
+BODY:
+<p>旦那にあなたと結婚している価値とは問い詰められたこと。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 参考にする
+BASENAME: 2024/01/26/213238
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/26/2024 21:32:38
+-----
+BODY:
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fefcl.info%2F2023%2F12%2F23%2Funemployed-process%2F" title="転職時に無職になる手続きをインターネットでする" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://efcl.info/2023/12/23/unemployed-process/">efcl.info</a></cite></p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 分かりを得た
+BASENAME: 2024/01/26/113537
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/26/2024 11:35:37
+-----
+BODY:
+<p><blockquote data-conversation="none" class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">新卒ではじめて出社するときに撮ったチューリップの写真みせてあげる<br>このあと<a class="keyword" href="https://d.hatena.ne.jp/keyword/%A4%A6%A4%C4%C9%C2">うつ病</a>になった <a href="https://t.co/WIC8VOI9bh">pic.twitter.com/WIC8VOI9bh</a></p>&mdash; 斉藤鳩 (@hellosurvival) <a href="https://twitter.com/hellosurvival/status/1750105091519221885?ref_src=twsrc%5Etfw">2024年1月24日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  </p>
+
+<p><blockquote data-conversation="none" class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">空の青さを戻していけるといいな。</p>&mdash; N/A (@imasaraosoi54) <a href="https://twitter.com/imasaraosoi54/status/1750163342008713460?ref_src=twsrc%5Etfw">2024年1月24日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  </p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: チラッが面白かった
+BASENAME: 2024/01/26/113228
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/26/2024 11:32:28
+-----
+BODY:
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/tGg6BhBUOZw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="チラッ LONGver. Sneak peek #オジンオズボーン篠宮暁 #倉沢しえり #shorts"></iframe><cite class="hatena-citation"><a href="https://www.youtube.com/shorts/tGg6BhBUOZw">www.youtube.com</a></cite></p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: happo31さんのブログ記事を読んだ
+BASENAME: 2024/01/26/112524
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/26/2024 11:25:24
+-----
+BODY:
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fhappo31sprogblog.hatenablog.jp%2Fentry%2F2024%2F01%2F20%2F150817" title="意外と人はちゃんと自分のことを考えている説 - 我が名はなんとか菜である！" class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://happo31sprogblog.hatenablog.jp/entry/2024/01/20/150817">happo31sprogblog.hatenablog.jp</a></cite></p>
+
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fhappo31sprogblog.hatenablog.jp%2Fentry%2F2023%2F07%2F29%2F111423" title="やはり労働は難しい - 我が名はなんとか菜である！" class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://happo31sprogblog.hatenablog.jp/entry/2023/07/29/111423">happo31sprogblog.hatenablog.jp</a></cite></p>
+
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fhappo31sprogblog.hatenablog.jp%2Fentry%2F2022%2F03%2F06%2F170217" title="プログラマとして「プログラムを書くこと」以外に許容できる仕事、許容できない仕事 - 我が名はなんとか菜である！" class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://happo31sprogblog.hatenablog.jp/entry/2022/03/06/170217">happo31sprogblog.hatenablog.jp</a></cite></p>
+
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fhappo31sprogblog.hatenablog.jp%2Fentry%2F2021%2F11%2F27%2F161420" title="改善策が分かっている（つもり）なのにやろうとしないという病について - 我が名はなんとか菜である！" class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://happo31sprogblog.hatenablog.jp/entry/2021/11/27/161420">happo31sprogblog.hatenablog.jp</a></cite></p>
+
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fhappo31sprogblog.hatenablog.jp%2Fentry%2F2021%2F11%2F07%2F174855" title="駆け出しエンジニアは何をすべきで、何をすべきでないか - 我が名はなんとか菜である！" class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://happo31sprogblog.hatenablog.jp/entry/2021/11/07/174855">happo31sprogblog.hatenablog.jp</a></cite></p>
+
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fhappo31sprogblog.hatenablog.jp%2Fentry%2F2020%2F12%2F16%2F002816" title="言語化の難易度を下げたい - 我が名はなんとか菜である！" class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://happo31sprogblog.hatenablog.jp/entry/2020/12/16/002816">happo31sprogblog.hatenablog.jp</a></cite></p>
+
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fhappo31sprogblog.hatenablog.jp%2Fentry%2F2020%2F10%2F23%2F030633" title="元鬱病患者が就活に落ち続けている話と、企業は応募者を落とすぐらいならスカウトを最初から送ってくるな - 我が名はなんとか菜である！" class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://happo31sprogblog.hatenablog.jp/entry/2020/10/23/030633">happo31sprogblog.hatenablog.jp</a></cite></p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 部屋の掃除
+BASENAME: 2024/01/26/111133
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/26/2024 11:11:33
+-----
+BODY:
+<p>部屋がちらかっていると、意識がそれてしまって良くないようです。実感しました。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 他人に仕返しで意地悪する人の気持が分からない
+BASENAME: 2024/01/26/110508
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/26/2024 11:05:08
+-----
+BODY:
+<p>大切な人に傷つけられた時に、仕返しで意地悪する人の気持が分からなくて、困っている。みんな、そういうもの？？</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 感情労働
+BASENAME: 2024/01/26/105903
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/26/2024 10:59:03
+-----
+BODY:
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fhuyukiitoichi.hatenadiary.jp%2Fentry%2F2023%2F11%2F14%2F080000" title="仕事ごときで燃え尽きてしまわないために、何をすればいいのか──『なぜ私たちは燃え尽きてしまうのか』 - 基本読書" class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://huyukiitoichi.hatenadiary.jp/entry/2023/11/14/080000">huyukiitoichi.hatenadiary.jp</a></cite></p>
+
+<p>上記の記事がとても興味深かったです。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 供養
+BASENAME: 2024/01/26/083327
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/26/2024 08:33:27
+-----
+BODY:
+<p>次を供養します。</p>
+
+<ul>
+<li>Competing with Unicorns</li>
+<li>ルポ高学歴<a class="keyword" href="https://d.hatena.ne.jp/keyword/%C8%AF%C3%A3%BE%E3%B3%B2">発達障害</a></li>
+</ul>
+
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 100円ショップでの出来事
+BASENAME: 2024/01/26/082943
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/26/2024 08:29:43
+-----
+BODY:
+<p>１１０円だったので悲しかった。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: とんがり帽子のアトリエ
+BASENAME: 2024/01/26/082900
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/26/2024 08:29:00
+-----
+BODY:
+<p>２０２３年１月の中で一番お気に入りの漫画です。文章が多いので、人によっては小説を読んでいる気分になるかもしれません。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 旦那と日本酒
+BASENAME: 2024/01/26/082709
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/26/2024 08:27:09
+-----
+BODY:
+<p>旦那が夕食で日本酒を持ち出すと、ほぼほぼ本音をお話するので、ちょっと大変がちです。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 旦那に求めること
+BASENAME: 2024/01/26/082320
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/26/2024 08:23:20
+-----
+BODY:
+<p>意地悪をしないで欲しい。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 供養
+BASENAME: 2024/01/25/105918
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/25/2024 10:59:18
+-----
+BODY:
+<p>「<a class="keyword" href="https://d.hatena.ne.jp/keyword/%C6%C8%A5%BD%C0%EF">独ソ戦</a> 絶滅戦争の惨禍」を供養しました。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: エーデルワイス
+BASENAME: 2024/01/25/091316
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/25/2024 09:13:16
+-----
+BODY:
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/kJ85cnD9Yks?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="♪エーデルワイス - エーデルワイス エーデルワイス かわいい花よ〜♪【サウンド・オブ・ミュージック】The Sound of Music - Edelweiss"></iframe><cite class="hatena-citation"><a href="https://www.youtube.com/watch?v=kJ85cnD9Yks">www.youtube.com</a></cite></p>
+
+<p><a class="keyword" href="https://d.hatena.ne.jp/keyword/%A5%A8%A1%BC%A5%C7%A5%EB%A5%EF%A5%A4%A5%B9">エーデルワイス</a>という歌が好き。何と言うか安心する。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: LINEを見るのが怖い
+BASENAME: 2024/01/25/091057
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/25/2024 09:10:57
+-----
+BODY:
+<p>旦那から酷いことを書かれたことがあったので、LINEを見るのが怖くなりました。体調や精神にダメージが入るのが怖くて全てが終わった寝る前にみています。</p>
+
+<p>直したいんだけどね。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: マジッククラフトをクリアした
+BASENAME: 2024/01/25/013433
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/25/2024 01:34:33
+-----
+BODY:
+<p>マジッククラフトをクリアしました。とてもおもしろかったです。</p>
+
+<p>少し値段に対して、中身が不足しているかもです。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 財布を落とさなくなって良かった
+BASENAME: 2024/01/24/182524
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/24/2024 18:25:24
+-----
+BODY:
+<p>つい先日まで毎日財布を落としていたんだけど、落とさなくなりました！！やったーと思いました。ですが、<a class="keyword" href="https://d.hatena.ne.jp/keyword/Android">Android</a>を落としてしまいました。がっくし。。。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 知人について
+BASENAME: 2024/01/24/182211
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/24/2024 18:22:11
+-----
+BODY:
+<p><a class="keyword" href="https://d.hatena.ne.jp/keyword/%A5%D7%A5%ED%A5%B0%A5%E9%A5%DE">プログラマ</a>辞めて企画職になったみたい。<a class="keyword" href="https://d.hatena.ne.jp/keyword/NAIST">NAIST</a>の情報系の大学院でていても適正があるものだねぇと思いました。毎日、楽しく過ごしているなら問題ないです。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: ストレスが高まった時の反応
+BASENAME: 2024/01/24/181936
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/24/2024 18:19:36
+-----
+BODY:
+<p>私は歩きながら<a class="keyword" href="https://d.hatena.ne.jp/keyword/%A5%B9%A5%DE%A5%DB">スマホ</a>をやってしますな。普段はしないのに。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 飲食店で思ったこと
+BASENAME: 2024/01/24/181844
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/24/2024 18:18:44
+-----
+BODY:
+<p><a class="keyword" href="https://d.hatena.ne.jp/keyword/%BE%E5%C3%E5">上着</a>を着たままで食べて良いところと良くないところがあることに気づきました。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 最近困っていること
+BASENAME: 2024/01/24/181226
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/24/2024 18:12:26
+-----
+BODY:
+<p>ストレスがかかると頭の中が思いつきで溢れる。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 供養
+BASENAME: 2024/01/24/082454
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/24/2024 08:24:54
+-----
+BODY:
+<p>以下を供養します。</p>
+
+<ul>
+<li><a class="keyword" href="https://d.hatena.ne.jp/keyword/%B0%A6%C3%E5%BE%E3%B3%B2">愛着障害</a>の克服</li>
+<li>TEAM TOPOLOGIES</li>
+</ul>
+
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 自分で自分を幸せにできる
+BASENAME: 2024/01/23/182238
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/23/2024 18:22:38
+-----
+BODY:
+<p><blockquote data-conversation="none" class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">自炊は「自分で自分を幸せにすることができる」の確認作業としてとても良い。もちろん外食も大大大好きだけど、幸せを外に外注するのは少し不安な気持ちになるから、プリミティブな素材で美味しいものを作って自分の幸せを構成できると安心する。だから参ってる時にこそよく自炊をする傾向がある</p>&mdash; 服さん (@fukusanity) <a href="https://twitter.com/fukusanity/status/1691691730192806229?ref_src=twsrc%5Etfw">2023年8月16日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  </p>
+
+<p>参っているとき、私は良く散歩をします。それより参っていると自閉モードに入ってしまうので、良くないね。人にうまく相談できるようになりたいね。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 供養
+BASENAME: 2024/01/23/122747
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/23/2024 12:27:47
+-----
+BODY:
+<p>ソフトウェア<a class="keyword" href="https://d.hatena.ne.jp/keyword/%A5%A2%A1%BC%A5%AD%A5%C6%A5%AF%A5%C1%A5%E3">アーキテクチャ</a>の基礎とマスタリング<a class="keyword" href="https://d.hatena.ne.jp/keyword/TCP/IP">TCP/IP</a>を供養した。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 大きな音が苦手
+BASENAME: 2024/01/23/115123
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/23/2024 11:51:23
+-----
+BODY:
+<p>旦那様が不機嫌だと、扉を大きな音を開けて閉じます。そういうことが何度も続き、扉を閉める音を聞くだけで怖くなってしまいました。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 疲れているとき
+BASENAME: 2024/01/23/115023
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/23/2024 11:50:23
+-----
+BODY:
+<p>疲れているときレジを失敗しそうなので、有人レジに行っています。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 本音と建前が苦手
+BASENAME: 2024/01/23/114944
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/23/2024 11:49:44
+-----
+BODY:
+<p>本音と建前が苦手すぎて、苦手。みんな、どうしているの？</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 小学生の頃
+BASENAME: 2024/01/23/114818
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/23/2024 11:48:18
+-----
+BODY:
+<p>小学生の頃、学区外に出るのが怖かったんだよね。あれは、なんだったのだろうか？</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 新しいおもちゃ
+BASENAME: 2024/01/23/114721
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/23/2024 11:47:21
+-----
+BODY:
+<p>最近、新しいおもちゃが見つかりそうで楽しみ。見つかると良いなぁ〜。多分、見つかると思うんだよね。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 辞めたいこと
+BASENAME: 2024/01/23/114202
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/23/2024 11:42:02
+-----
+BODY:
+<p>お菓子をあればあるだけ食べてしまうのを辞めたいです。</p>
+
+<p>これ多分、ストレス反応なんだよね。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 好きなクリエイティブコーディング作品群
+BASENAME: 2024/01/23/113724
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/23/2024 11:37:24
+-----
+BODY:
+<p>好きなクリエイティブコーディング作品群を紹介します。</p>
+
+<p><blockquote data-conversation="none" class="twitter-tweet" data-lang="ja"><p lang="en" dir="ltr">The Aizawa Attractor. A simple equation, but beautiful chaotic pattern. [<a href="https://t.co/6rVatdnWcW">https://t.co/6rVatdnWcW</a>] <a href="https://t.co/jW3t1i2tXB">pic.twitter.com/jW3t1i2tXB</a></p>&mdash; Math Lady Hazel 🇦🇷 (@mathladyhazel) <a href="https://twitter.com/mathladyhazel/status/1748986765661127134?ref_src=twsrc%5Etfw">2024年1月21日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  </p>
+
+<p><blockquote data-conversation="none" class="twitter-tweet" data-lang="ja"><p lang="en" dir="ltr">Day 11 - In the style of Anni Albers <br>Rather pleased with this one 🪡<a href="https://twitter.com/hashtag/genuary2024?src=hash&amp;ref_src=twsrc%5Etfw">#genuary2024</a> <a href="https://twitter.com/hashtag/genuary?src=hash&amp;ref_src=twsrc%5Etfw">#genuary</a> <a href="https://twitter.com/hashtag/genuary11?src=hash&amp;ref_src=twsrc%5Etfw">#genuary11</a> <a href="https://t.co/Fhc1epOWBo">pic.twitter.com/Fhc1epOWBo</a></p>&mdash; P1x3lboy 💎 (@P1x3lboy) <a href="https://twitter.com/P1x3lboy/status/1745501941482868943?ref_src=twsrc%5Etfw">2024年1月11日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  </p>
+
+<p><blockquote data-conversation="none" class="twitter-tweet" data-lang="ja"><p lang="en" dir="ltr">☕️<a class="keyword" href="https://d.hatena.ne.jp/keyword/gm">gm</a> generative art lovers  <br><br>an old project that was never released.<a href="https://twitter.com/hashtag/generativeart?src=hash&amp;ref_src=twsrc%5Etfw">#generativeart</a> <a href="https://twitter.com/hashtag/generative?src=hash&amp;ref_src=twsrc%5Etfw">#generative</a> <a href="https://twitter.com/hashtag/Tezumie?src=hash&amp;ref_src=twsrc%5Etfw">#Tezumie</a> <a href="https://twitter.com/hashtag/genartclub?src=hash&amp;ref_src=twsrc%5Etfw">#genartclub</a> <a href="https://twitter.com/hashtag/p5js?src=hash&amp;ref_src=twsrc%5Etfw">#p5js</a> <a href="https://twitter.com/hashtag/creativecoding?src=hash&amp;ref_src=twsrc%5Etfw">#creativecoding</a> <a href="https://twitter.com/hashtag/aijs?src=hash&amp;ref_src=twsrc%5Etfw">#aijs</a> <a href="https://t.co/p43EUKUbH5">pic.twitter.com/p43EUKUbH5</a></p>&mdash; Tezumie (@Tezumies) <a href="https://twitter.com/Tezumies/status/1745492501845196936?ref_src=twsrc%5Etfw">2024年1月11日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  </p>
+
+<p><blockquote data-conversation="none" class="twitter-tweet" data-lang="ja"><p lang="zxx" dir="ltr"><a href="https://t.co/kBY7cXfLvi">pic.twitter.com/kBY7cXfLvi</a></p>&mdash; Helio Santos (@HeliodoroSantos) <a href="https://twitter.com/HeliodoroSantos/status/1745457373723156654?ref_src=twsrc%5Etfw">2024年1月11日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  </p>
+
+<p><blockquote data-conversation="none" class="twitter-tweet" data-lang="ja"><p lang="en" dir="ltr">It&#39;s a wobbly function day on <a href="https://twitter.com/hashtag/genuary2024?src=hash&amp;ref_src=twsrc%5Etfw">#genuary2024</a>&#39;s 13th prompt ✨<br><br>Been meaning to figure out how to do these wavy bands for a while now, and today was the perfect excuse to investigate — SDFs for the win (the loop is actually only 4 seconds long) 🦠 <a href="https://twitter.com/hashtag/genuary13?src=hash&amp;ref_src=twsrc%5Etfw">#genuary13</a> <a href="https://t.co/rhiwENbuYX">pic.twitter.com/rhiwENbuYX</a></p>&mdash; Ahmad Moussa || Gorilla Sun (@gorillasu) <a href="https://twitter.com/gorillasu/status/1745943991282192856?ref_src=twsrc%5Etfw">2024年1月12日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  </p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 近所の有名人
+BASENAME: 2024/01/23/113401
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/23/2024 11:34:01
+-----
+BODY:
+<p><a class="keyword" href="https://d.hatena.ne.jp/keyword/%B9%F1%CE%A9%B1%D8">国立駅</a>周辺で少し有名な、黒人の方に会いました。知り合いによると女性には声をかけるけど、男性にはかけないらしいです。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 体調、少し戻ってきたかも
+BASENAME: 2024/01/23/113148
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/23/2024 11:31:48
+-----
+BODY:
+<p>自身の体調を把握するのは難しいことである。。文章を作っているときの誤字が減ってきたので、体調が戻ってきているかも。</p>
+
+<p>良いことである。それはそうと、春に向けて色々準備しましょうか。だいぶん、失ったものがありそうです。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: エスカレーターを後ろ向きで乗る
+BASENAME: 2024/01/23/112851
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/23/2024 11:28:51
+-----
+BODY:
+<p><a class="keyword" href="https://d.hatena.ne.jp/keyword/%C0%BE%B9%F1%CA%AC%BB%FB%B1%D8">西国分寺駅</a>で<a class="keyword" href="https://d.hatena.ne.jp/keyword/%A5%A8%A5%B9">エス</a>カレーターを後ろ向きで乗っている方がいて少し愉快な気持ちになりました。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 姿見の池での思い出
+BASENAME: 2024/01/23/112745
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/23/2024 11:27:45
+-----
+BODY:
+<p>箱買いアイスを食べている老人が居たので良かったです。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 状況の変化について
+BASENAME: 2024/01/23/112007
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/23/2024 11:20:07
+-----
+BODY:
+<p>私自身状況の変化に弱いんだけど、どういう対策をすると良いかなぁ〜。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 悲しかったこと
+BASENAME: 2024/01/23/111923
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/23/2024 11:19:23
+-----
+BODY:
+<p>旦那がもう<a class="keyword" href="https://d.hatena.ne.jp/keyword/%A5%E2%A5%E9%A5%CF%A5%E9">モラハラ</a>みたいに自身がなっていると言っていて悲しかったです。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 体調管理について
+BASENAME: 2024/01/22/092253
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/22/2024 09:22:53
+-----
+BODY:
+<p><a class="keyword" href="https://d.hatena.ne.jp/keyword/AtCoder">AtCoder</a>のパフォーマンスを見ていると体調によって、２倍くらい差があるので体調管理の重要さを感じました。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 政治ジャーナリスト
+BASENAME: 2024/01/22/091812
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/22/2024 09:18:12
+-----
+BODY:
+<p>テレビを見ていて思ったこと。政治ジャーナリスト、強い語勢で色々断定口調なのが怖いな。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: Inscryptionの実況を見た
+BASENAME: 2024/01/21/213059
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/21/2024 21:30:59
+-----
+BODY:
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/OKZ9kWI-Y-4?list=PLriLlN3cGIhdrQjcCjg-DHbNrMNRdFSi9" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><cite class="hatena-citation"><a href="https://www.youtube.com/watch?v=OKZ9kWI-Y-4&list=PLriLlN3cGIhdrQjcCjg-DHbNrMNRdFSi9&index=1">www.youtube.com</a></cite></p>
+
+<p>おもしろいゲームだねぇ。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 朝鮮戦争のドキュメンタリーを見た。
+BASENAME: 2024/01/21/172813
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/21/2024 17:28:13
+-----
+BODY:
+<p><a class="keyword" href="https://d.hatena.ne.jp/keyword/%C4%AB%C1%AF%C0%EF%C1%E8">朝鮮戦争</a>のドキュメンタリーを見た。次は、<a class="keyword" href="https://d.hatena.ne.jp/keyword/%A5%D9%A5%C8%A5%CA%A5%E0%C0%EF%C1%E8">ベトナム戦争</a>を履修したい。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: ２０２３年１月２０日のメモ
+BASENAME: 2024/01/21/131658
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/21/2024 13:16:58
+-----
+BODY:
+<p>ちょっと疲れたいたので、次のことが発生しました。</p>
+
+<ul>
+<li>財布を三回落とす</li>
+<li>クーポンの適用を失敗したことに気付けない</li>
+<li>文章に誤字が多い</li>
+<li><a class="keyword" href="https://d.hatena.ne.jp/keyword/AtCoder">AtCoder</a>で普段解けていた問題が、解けない</li>
+</ul>
+
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 豊井さんのインタビューが良かった
+BASENAME: 2024/01/21/131450
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/21/2024 13:14:50
+-----
+BODY:
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fnote.com%2Fcreatorecolab%2Fn%2Fn56037bedeb76" title="なぜドット絵作家が、海外ファンからの課金支援で生活できるようになったのか？｜クリエイターエコノミーラボ" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://note.com/creatorecolab/n/n56037bedeb76">note.com</a></cite></p>
+
+<p>こちらになります。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 最近気付いたこと
+BASENAME: 2024/01/20/182650
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/20/2024 18:26:50
+-----
+BODY:
+<p>聴覚過敏の傾向があると思うんだよね。今までなんで気付けなかったんだろうか。。。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 今年やりたいこと
+BASENAME: 2024/01/20/182454
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/20/2024 18:24:54
+-----
+BODY:
+<p>皇居の新年<a class="keyword" href="https://d.hatena.ne.jp/keyword/%BB%B2%B2%EC">参賀</a>に行きたいです。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 難しいゲーム
+BASENAME: 2024/01/20/182356
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/20/2024 18:23:56
+-----
+BODY:
+<p>疲れている時に難しいゲームは、ちょっと難しいし、面白くないね。ゲーム自体は面白いんだけど、私の状態によって面白くなくなっているということ。</p>
+
+<p>今日は財布を３回落としたので、そういう日だってこと。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 憧れの旅行
+BASENAME: 2024/01/20/182233
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/20/2024 18:22:33
+-----
+BODY:
+<p>私の憧れの旅行について条件を記載します。</p>
+
+<ul>
+<li>行ったことのない県である。</li>
+<li>持っていった本を読み切り、旅行先で捨てれる。</li>
+<li>暑くない。</li>
+</ul>
+
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 私が好きなクリエイティブコーディングの作品
+BASENAME: 2024/01/20/111348
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/20/2024 11:13:48
+-----
+BODY:
+<p>私が好きなクリエイティブコーディングの作品をご紹介します。</p>
+
+<p><blockquote data-conversation="none" class="twitter-tweet" data-lang="ja"><p lang="it" dir="ltr">Astral sentinel <a href="https://t.co/2iVzIXhamg">pic.twitter.com/2iVzIXhamg</a></p>&mdash; Lucas Lejeune (@Lucas__Lejeune) <a href="https://twitter.com/Lucas__Lejeune/status/1745087598526091765?ref_src=twsrc%5Etfw">2024年1月10日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  </p>
+
+<p><blockquote data-conversation="none" class="twitter-tweet" data-lang="ja"><p lang="en" dir="ltr">Struggle for Pleasure by Harm van den Dorpel <a href="https://t.co/r9iSOVhryO">pic.twitter.com/r9iSOVhryO</a></p>&mdash; Mimi Nguyen (@miminguyenmimi) <a href="https://twitter.com/miminguyenmimi/status/1745005741100945889?ref_src=twsrc%5Etfw">2024年1月10日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  </p>
+
+<p><blockquote data-conversation="none" class="twitter-tweet" data-lang="ja"><p lang="es" dir="ltr">Hexagonal<a href="https://twitter.com/hashtag/genuary?src=hash&amp;ref_src=twsrc%5Etfw">#genuary</a> <a href="https://twitter.com/hashtag/genuary2024?src=hash&amp;ref_src=twsrc%5Etfw">#genuary2024</a> <a href="https://twitter.com/hashtag/genuary10?src=hash&amp;ref_src=twsrc%5Etfw">#genuary10</a> <a href="https://t.co/UIpPO3DC3C">pic.twitter.com/UIpPO3DC3C</a></p>&mdash; Lionel Radisson (@MAKIO135) <a href="https://twitter.com/MAKIO135/status/1745061393005482297?ref_src=twsrc%5Etfw">2024年1月10日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  </p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 去年の誕生日について
+BASENAME: 2024/01/19/235138
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/19/2024 23:51:38
+-----
+BODY:
+<p>去年の誕生日は、旦那と過ごしました。が、すごいピリピリしていてずっと緊張感がありとても楽しくありませんでした。</p>
+
+<p>何か疲れただけだし、帰宅後とても悲しい気持ちになりました。なんでこんなことになってしまったんでしょうか？？</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: いままでやりたかったゲーム
+BASENAME: 2024/01/19/234612
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/19/2024 23:46:12
+-----
+BODY:
+<p>いままでやりたかったゲームのFactory Town Idle、Outpath: First Journey、マジッククラフト Magicraftをやりました。</p>
+
+<p>ちょっと体調の問題で、楽しめなくて残念でした。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 金魚さんについて
+BASENAME: 2024/01/19/233928
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/19/2024 23:39:28
+-----
+BODY:
+<p>以前付き合っていた恋人が金魚を飼っていた。ある夏の日、温度管理に失敗し死んでしまった。結構恋人がヘラヘラしていたというお話。</p>
+
+<p>正直、私はひいてしまった。何て言うか生き方のスタンスが違うんだろうね。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 認知が落ちている時に起こること
+BASENAME: 2024/01/19/114850
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/19/2024 11:48:50
+-----
+BODY:
+<p>自身の認知が落ちている時には気付けないので、落ちている時に起こることを記録する。ちなみに気付けない理由は、認知が落ちているからである。</p>
+
+<ul>
+<li>電車を降りるのを失敗し、<a class="keyword" href="https://d.hatena.ne.jp/keyword/%C6%FC%CC%EE%B1%D8">日野駅</a>までいく</li>
+<li>文章の「、」が変な位置に入る</li>
+<li>読書がはかどらない（文章が読めない）</li>
+<li>連絡を返せなくなる</li>
+<li>複雑なことを考えられなくなる</li>
+</ul>
+
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 結婚生活の感想
+BASENAME: 2024/01/19/112806
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/19/2024 11:28:06
+-----
+BODY:
+<p>ずっと怒られていて毎日辛かったです。挙げ句の果てにLINEで「<a class="keyword" href="https://d.hatena.ne.jp/keyword/%C0%BA%BF%C0%BE%E3%B3%B2%BC%D4">精神障害者</a>なの」ってくるし。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 好きなプログラミング
+BASENAME: 2024/01/18/225849
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/18/2024 22:58:49
+-----
+BODY:
+<p>最近好きなプログラミンをご紹介します。</p>
+
+<ul>
+<li><a class="keyword" href="https://d.hatena.ne.jp/keyword/AtCoder">AtCoder</a></li>
+<li>小さなアイディアを実現する（実装が２日以内）</li>
+<li>クリエイティブコーディング</li>
+</ul>
+
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: ドラゴンクエストVII の思い出
+BASENAME: 2024/01/18/225642
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/18/2024 22:56:42
+-----
+BODY:
+<p>当時やってみたんだけど、発達が足りていなくて始まりの町からでられませんでした。改めてやりたいんだけど、Swtichでリリースされていないなぁ。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: くにたちの好きなところ
+BASENAME: 2024/01/18/224946
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/18/2024 22:49:46
+-----
+BODY:
+<p>ベンチに寝そべって、本を読む人がいるところ。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 味が変わる
+BASENAME: 2024/01/18/224847
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/18/2024 22:48:47
+-----
+BODY:
+<p>同じものを食べていても体調によって味が変わるんだよね。最近、自身の感覚や感じていること、考えていることが分かってきて楽しい。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 苦手な感覚
+BASENAME: 2024/01/18/224737
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/18/2024 22:47:37
+-----
+BODY:
+<p>手触り感があると苦手です。現実を感じさせられるからかと考えています。そろそろ現実を直視しないとね。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 映画のスタッフロールについて
+BASENAME: 2024/01/18/224042
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/18/2024 22:40:42
+-----
+BODY:
+<p>私はスタッフロールに入ると帰ってしまうんだけど、最近は最後までみる風潮がありそうです。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 最近出来るようになったこと
+BASENAME: 2024/01/18/223907
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/18/2024 22:39:07
+-----
+BODY:
+<p><blockquote data-conversation="none" class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">生活面ではどんな正論でも人から言われてるだけじゃ納得いかなくて、自分が心の底からふつふつと湧き上がるように学んだことしか実行に移せないという致命的な弱みがある　最近は冬に服を着ると暖かいということを学んだ</p>&mdash; ほにしり (@buttcutest) <a href="https://twitter.com/buttcutest/status/1747282873961578989?ref_src=twsrc%5Etfw">2024年1月16日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  </p>
+
+<p>温度管理が出来るようになりました。すっごく怒られたり、がっかりされたりしましたが。。。</p>
+
+<p>もぅ、無理かもねぇ〜。とても悲しいなぁ。。。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: うすい関係について
+BASENAME: 2024/01/18/223441
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/18/2024 22:34:41
+-----
+BODY:
+<p><blockquote data-conversation="none" class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">自分は極めて普通の人間だが、一点おかしい点があるとすればうっすい関係とうっすい会話のパーティのほうが大好きだという点だな。薄ければ薄いほど良い。なんというか、読書と同じで新しい本読んでるほうが脳汁出るじゃん。確かに大好きな本は何回も読むけど、新しい本の魅力は強い。それと同じ（？）</p>&mdash; ワン・チャン・アルディ (@WangChangHardy) <a href="https://twitter.com/WangChangHardy/status/1695002194355859578?ref_src=twsrc%5Etfw">2023年8月25日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  </p>
+
+<p>自分うすい関係の方が長期の関係より気楽なのだけれど、なぜだろう？自分の心の機微が分からない。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE:  ５、６年ぶりに会う友人
+BASENAME: 2024/01/18/143559
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/18/2024 14:35:59
+-----
+BODY:
+<p>一年合っていないと友人枠から外れるんだけど、私だけ？？</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: Punch Club2
+BASENAME: 2024/01/18/143504
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/18/2024 14:35:04
+-----
+BODY:
+<p>Punch Club2をやった。あまり私の趣味ではなかった。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: のびのびコーディング
+BASENAME: 2024/01/17/114525
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/17/2024 11:45:25
+-----
+BODY:
+<p>私は、最近楽しくのびのびコーディング出来ている。他の方を見ると窮屈そうに、つまらなそうに、辛そうにやっている。</p>
+
+<p>業界が成熟したのやらそもそもの職場環境が悪いのか、、、<a class="keyword" href="https://d.hatena.ne.jp/keyword/%A5%BD%A1%BC%A5%B9%A5%B3%A1%BC%A5%C9">ソースコード</a>自体も泣いているようだ。</p>
+
+<p>結論、最近楽しくコーディングをしているという近況報告でした（少し躁っぽいかも、自覚はあります）。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: ターン制行動
+BASENAME: 2024/01/17/114322
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/17/2024 11:43:22
+-----
+BODY:
+<p>調子が悪い時は、ターン制行動しか出来ない。ご説明しよう。作業A、B、Cがあったとする。</p>
+
+<p>作業A、休むと息抜き、作業B、休むと息抜き、作業Cとしか作業を進められないのである。結局終わるから私は良いと考えているが、旦那様はもっとテキパキ効率良くやることを求めている。</p>
+
+<p>大変困ったことだ。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 白黒世界が色付いた経験
+BASENAME: 2024/01/17/114113
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/17/2024 11:41:13
+-----
+BODY:
+<p>皆様は白黒世界が色付いた経験があるだろうか？私は、２回ある。今が２回目である。今回は、一回目のお話をしよう。</p>
+
+<p>それはぽかぽか５月に目黒の坂を降りたり登ったりお散歩していたときのことである。急に世界が色付きだしたのだ。それは、道端の花、住宅街での生活音、少し遠くから聞こえる車の音、全てが温かく色付いていた。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 私が抱える希死念慮（きしねんりょ）について
+BASENAME: 2024/01/17/113713
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/17/2024 11:37:13
+-----
+BODY:
+<p>普通に過ごしていても子供が生まれたら自殺したいとか、内輪寄りの飲み会でお話するので、、、あるんだよな。</p>
+
+<p>そんなもんなのでしょうか？みんなもそんなものかと思っていたが、違いそうな気もするんだよね。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 苦手なのでメモメモ
+BASENAME: 2024/01/17/113227
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/17/2024 11:32:27
+-----
+BODY:
+<p>苦手なのでメモメモしました。</p>
+
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fsaize-lw.hatenablog.com%2Fentry%2F2023%2F10%2F21%2F185938" title="23/10/21 就活に苦しむインテリの学生に社会の真実を教える - LWのサイゼリヤ" class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://saize-lw.hatenablog.com/entry/2023/10/21/185938">saize-lw.hatenablog.com</a></cite></p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: ペリー・ローダンで好きな生き物について
+BASENAME: 2024/01/17/021246
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/17/2024 02:12:46
+-----
+BODY:
+<p>古くて誰も覚えていないと思うんだけど「走れ走れ」が好きなんよね。荒野をすごい速度で足を動かして移動しているのが何となく良いのよね。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE:  言語化について
+BASENAME: 2024/01/17/021023
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/17/2024 02:10:23
+-----
+BODY:
+<p><a class="keyword" href="https://d.hatena.ne.jp/keyword/%B8%C0%B8%EC%B2%BD">言語化</a>出来ていないと、相手に伝わらないとか、よく分かっていないから出来ないんだと言われがちだと思います。私は、<a class="keyword" href="https://d.hatena.ne.jp/keyword/%B8%C0%B8%EC%B2%BD">言語化</a>したことによって落ちていくものがある気がするのでとても苦手です。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 私が好きなあきまんさんのツイートについて
+BASENAME: 2024/01/17/020853
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/17/2024 02:08:53
+-----
+BODY:
+<p><blockquote data-conversation="none" class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">2003年はフリーになったのは良いものの<br>年収は100万ぐらいに落ちた<br>その後2013年ぐらいまで10年間赤字で<br>その年に貯金が全部無くなりました<br>俺のそれまでの成果はあくまでゲーム業界で履かせてもらった高下駄によるものに過ぎず<br>自分1人では何も出来ないと言う気分を10年ぐらい味わったわけです…</p>&mdash; <a class="keyword" href="https://d.hatena.ne.jp/keyword/%A4%A2%A4%AD%A4%DE%A4%F3">あきまん</a>PLAMAX「GODZ ORDER」神翼騎士団 (@akiman7) <a href="https://twitter.com/akiman7/status/1674463571483451392?ref_src=twsrc%5Etfw">2023年6月29日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  </p>
+
+<p><a class="keyword" href="https://d.hatena.ne.jp/keyword/%B8%C0%B8%EC%B2%BD">言語化</a>出来ないんだけれども、一番好きです。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: Deadly Daysをクリアしました
+BASENAME: 2024/01/17/020643
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/17/2024 02:06:43
+-----
+BODY:
+<p>ジャンパー・ジャックを倒して、クリアしました。９人揃えれば、簡単やね。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 残業申請の思い出
+BASENAME: 2024/01/16/124908
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/16/2024 12:49:08
+-----
+BODY:
+<p><a class="keyword" href="https://d.hatena.ne.jp/keyword/%C4%B9%CC%EE%BB%D4">長野市</a>の無線の会社で働いていたときのお話である。残業申請しようとしたら「みんな申請していないから」と言ってきた女の人はなんだったのだろうか。。。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 旦那との関係改善でやったこと（２０２３年１２月版）
+BASENAME: 2024/01/16/114347
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/16/2024 11:43:47
+-----
+BODY:
+<p>１、家事を代わりにやろうという。
+２、どこかに出かけることを提案する。
+３、お菓子やアイスなどを買ってくる。</p>
+
+<p>上記、全部不発でしたし辛辣なLINEが来ました。「<a class="keyword" href="https://d.hatena.ne.jp/keyword/%C0%BA%BF%C0%BE%E3%B3%B2%BC%D4">精神障害者</a>なの」ときたときには流石にへこみました。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 1on1で良かったことを言うのが苦手
+BASENAME: 2024/01/16/114024
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/16/2024 11:40:24
+-----
+BODY:
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fqiita.com%2Faki_number16%2Fitems%2F97f6d89cfc49ba1e61e9" title="1on1で質問をする側になって「工夫したこと」と「気づいたこと」 - Qiita" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://qiita.com/aki_number16/items/97f6d89cfc49ba1e61e9">qiita.com</a></cite></p>
+
+<p>1on1で良かったことを言うのが苦手だったことを、上記記事を眺めていて思い出しました。私の認知の問題かもですが、良かったことほとんどなくないですか？</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: メンクリの風景
+BASENAME: 2024/01/16/113706
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/16/2024 11:37:06
+-----
+BODY:
+<p><a class="keyword" href="https://d.hatena.ne.jp/keyword/%A5%E1%A5%F3%A5%AF%A5%EA">メンクリ</a>の会計時に現金の手持ちがなくおろしてくる方がよくいる。<a class="keyword" href="https://d.hatena.ne.jp/keyword/%A5%E1%A5%F3%A5%AF%A5%EA">メンクリ</a>特有の風景なんだろうなと思った。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: Deadly Dayをやった
+BASENAME: 2024/01/15/134345
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/15/2024 13:43:45
+-----
+BODY:
+<p><a class="keyword" href="https://d.hatena.ne.jp/keyword/%A5%CF%A5%F3%A5%D0%A1%BC%A5%AC">ハンバーガ</a>ー工場で巨大ゾンビを倒すところまで。とても強かった。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 武蔵野美術大学の卒業展示をみていた
+BASENAME: 2024/01/14/080556
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/14/2024 08:05:56
+-----
+BODY:
+<p>武蔵野<a class="keyword" href="https://d.hatena.ne.jp/keyword/%C8%FE%BD%D1%C2%E7%B3%D8">美術大学</a>の卒業展示を観ました。渡辺聖菜さんの作品がとても気に入りました。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 違いを考える
+BASENAME: 2024/01/14/080321
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/14/2024 08:03:21
+-----
+BODY:
+<p>昨日あって一生会わない人と死んだ人の違いについて考えていた。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 私が食べすぎ（過食）てしまうパターン
+BASENAME: 2024/01/12/071602
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/12/2024 07:16:02
+-----
+BODY:
+<p>最近やっと純粋なストレス反応だと分かりました。だって、２２歳から繰り返しやっているのですもの。。。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 新しい概念の獲得
+BASENAME: 2024/01/11/213655
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/11/2024 21:36:55
+-----
+BODY:
+<p>高度<a class="keyword" href="https://d.hatena.ne.jp/keyword/%B9%E7%C0%AE%BF%F4">合成数</a>という概念を獲得しました。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: Teamfight Manager
+BASENAME: 2024/01/11/103423
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/11/2024 10:34:23
+-----
+BODY:
+<p>好きな人は、好きだと思いました。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 好きな食べ物
+BASENAME: 2024/01/07/212029
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/07/2024 21:20:29
+-----
+BODY:
+<ul>
+<li>柿の種</li>
+<li>ネギ</li>
+<li>チョコレートアイス</li>
+</ul>
+
+
+<p>以上！！</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 「Backpack hero」を一旦完了
+BASENAME: 2024/01/06/181839
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/06/2024 18:18:39
+-----
+BODY:
+<p>国王を倒したので満足しました。２０２３年のゲームは、これで満足しました。</p>
+
+<p>以上！！１</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 雨香（あまか）
+BASENAME: 2024/01/03/210820
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/03/2024 21:08:20
+-----
+BODY:
+<p>「雨香」とは、雨が降った後に漂う香りのことを指します。例文は、次の通りです。</p>
+
+<ol>
+<li><p>夜の雨香が街を包み込む中、ひときわ輝くネオンサインが都会の魅力を引き立てていた。</p></li>
+<li><p>森の奥深く、雨香が立ちこめ、自然の調べが穏やかな心地良さを運んできた。</p></li>
+<li><p>古びた書店の一角で、雨香が古本のページから立ちのぼり、読書の時間が静寂と知識の香りで満たされた。</p></li>
+</ol>
+
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 好きな映画
+BASENAME: 2024/01/02/153553
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/02/2024 15:35:53
+-----
+BODY:
+<p>最後に好きな映画について紹介する。</p>
+
+<ul>
+<li><a class="keyword" href="https://d.hatena.ne.jp/keyword/%A5%AC%A1%BC%A5%C7%A5%A3%A5%A2%A5%F3%A5%BA%A1%A6%A5%AA%A5%D6%A1%A6%A5%AE%A5%E3%A5%E9%A5%AF%A5%B7%A1%BC">ガーディアンズ・オブ・ギャラクシー</a></li>
+<li>インディペンデンス・デイ(特に最終決戦でわちゃわちゃ戦っているところが好きです)</li>
+<li><a class="keyword" href="https://d.hatena.ne.jp/keyword/%A5%B4%A1%BC%A5%B9%A5%C8%A5%D0%A5%B9%A5%BF%A1%BC%A5%BA">ゴーストバスターズ</a>(個性豊かなキャ<a class="keyword" href="https://d.hatena.ne.jp/keyword/%A5%E9%A5%AF">ラク</a>ターがわちゃわちゃしている所が面白いです。私は、わちゃわちゃが好き)</li>
+<li><a class="keyword" href="https://d.hatena.ne.jp/keyword/%A5%F4%A5%A1%A5%EC%A5%EA%A5%A2%A5%F3%20%C0%E9%A4%CE%CF%C7%C0%B1%A4%CE%B5%DF%C0%A4%BC%E7">ヴァレリアン 千の惑星の救世主</a>(一番オススメの映画です。初期の<a class="keyword" href="https://d.hatena.ne.jp/keyword/%A5%DA%A5%EA%A1%BC%A1%A6%A5%ED%A1%BC%A5%C0%A5%F3">ペリー・ローダン</a>を彷彿とさせる。本当か？？)</li>
+<li><a class="keyword" href="https://d.hatena.ne.jp/keyword/%A5%C8%A1%BC%A5%BF%A5%EB%A1%A6%A5%EA%A5%B3%A1%BC%A5%EB">トータル・リコール</a>(懐かしく良い映画でした。幼い頃は楽しかったね。良い家庭で育ちました。)</li>
+<li><a class="keyword" href="https://d.hatena.ne.jp/keyword/%A5%B9%A5%BF%A1%BC%A5%B7%A5%C3%A5%D7%A1%A6%A5%C8%A5%A5%A5%EB%A1%BC%A5%D1%A1%BC%A5%BA">スターシップ・トゥルーパーズ</a></li>
+</ul>
+
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 好きな小説
+BASENAME: 2024/01/02/144653
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/02/2024 14:46:53
+-----
+BODY:
+<p>好きな小説を紹介する。</p>
+
+<ul>
+<li>ホワイトラビット(<a class="keyword" href="https://d.hatena.ne.jp/keyword/%B0%CB%BA%E4%B9%AC%C2%C0%CF%BA">伊坂幸太郎</a>)</li>
+<li>夜行(<a class="keyword" href="https://d.hatena.ne.jp/keyword/%BF%B9%B8%AB%C5%D0%C8%FE%C9%A7">森見登美彦</a>)</li>
+<li><a class="keyword" href="https://d.hatena.ne.jp/keyword/%BB%CD%BE%F6%C8%BE%BF%C0%CF%C3%C2%E7%B7%CF">四畳半神話大系</a>(<a class="keyword" href="https://d.hatena.ne.jp/keyword/%BF%B9%B8%AB%C5%D0%C8%FE%C9%A7">森見登美彦</a>)</li>
+<li><a class="keyword" href="https://d.hatena.ne.jp/keyword/%CC%EB%A4%CF%C3%BB%A4%B7%CA%E2%A4%B1%A4%E8%B2%B5%BD%F7">夜は短し歩けよ乙女</a>(<a class="keyword" href="https://d.hatena.ne.jp/keyword/%BF%B9%B8%AB%C5%D0%C8%FE%C9%A7">森見登美彦</a>)</li>
+<li><a class="keyword" href="https://d.hatena.ne.jp/keyword/%CC%EB%A4%CE%A5%D4%A5%AF%A5%CB%A5%C3%A5%AF">夜のピクニック</a>(<a class="keyword" href="https://d.hatena.ne.jp/keyword/%B2%B8%C5%C4%CE%A6">恩田陸</a>)</li>
+<li><a class="keyword" href="https://d.hatena.ne.jp/keyword/%B4%E1%B6%F1%BD%A4%CD%FD%BC%D4">玩具修理者</a>(<a class="keyword" href="https://d.hatena.ne.jp/keyword/%BE%AE%CE%D3%C2%D9%BB%B0">小林泰三</a>)</li>
+<li>雨の日も神様と相撲を(<a class="keyword" href="https://d.hatena.ne.jp/keyword/%BE%EB%CA%BF%B5%FE">城平京</a>)</li>
+</ul>
+
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 意味がわかるＡＩ入門を読んでる
+BASENAME: 2024/01/02/144204
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/02/2024 14:42:04
+-----
+BODY:
+<p>５−１のフレーム問題まで読んだ。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 好きなアニメ
+BASENAME: 2024/01/02/111736
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/02/2024 11:17:36
+-----
+BODY:
+<p>昨日に引き続き好きなアニメをつらつら挙げていきます。</p>
+
+<ul>
+<li><a class="keyword" href="https://d.hatena.ne.jp/keyword/PSYCHO-PASS">PSYCHO-PASS</a></li>
+<li><a class="keyword" href="https://d.hatena.ne.jp/keyword/%A5%A2%A5%EB%A5%C9%A5%CE%A5%A2%A1%A6%A5%BC%A5%ED">アルドノア・ゼロ</a></li>
+<li><a class="keyword" href="https://d.hatena.ne.jp/keyword/%B5%A1%C6%B0%C0%EF%BB%CE%A5%AC%A5%F3%A5%C0%A5%E0%20%C5%B4%B7%EC%A4%CE%A5%AA%A5%EB%A5%D5%A5%A7%A5%F3%A5%BA">機動戦士ガンダム 鉄血のオルフェンズ</a></li>
+<li><a class="keyword" href="https://d.hatena.ne.jp/keyword/%A4%B3%A4%CE%C1%C7%C0%B2%A4%E9%A4%B7%A4%A4%C0%A4%B3%A6%A4%CB%BD%CB%CA%A1%A4%F2%A1%AA">この素晴らしい世界に祝福を！</a></li>
+<li><a class="keyword" href="https://d.hatena.ne.jp/keyword/%BD%AA%CB%F6%A4%CA%A4%CB%A4%B7%A4%C6%A4%DE%A4%B9%A4%AB%A1%A9%20%CB%BB%A4%B7%A4%A4%A4%C7%A4%B9%A4%AB%A1%A9%20%B5%DF%A4%C3%A4%C6%A4%E2%A4%E9%A4%C3%A4%C6%A4%A4%A4%A4%A4%C7%A4%B9%A4%AB%A1%A9">終末なにしてますか？ 忙しいですか？ 救ってもらっていいですか？</a></li>
+<li><a class="keyword" href="https://d.hatena.ne.jp/keyword/%A5%ED%A5%AF%A4%C7%A4%CA%A4%B7%CB%E2%BD%D1%B9%D6%BB%D5%A4%C8%B6%D8%B4%F7%B6%B5%C5%B5">ロクでなし魔術講師と禁忌教典</a></li>
+<li><a class="keyword" href="https://d.hatena.ne.jp/keyword/%A5%A2%A5%F3%A5%B4%A5%EB%A5%E2%A5%A2%20%B8%B5%D5%E4%B9%E7%C0%EF%B5%AD">アンゴルモア 元寇合戦記</a></li>
+<li><a class="keyword" href="https://d.hatena.ne.jp/keyword/%B5%A1%C6%B0%C0%EF%BB%CE%A5%AC%A5%F3%A5%C0%A5%E0THE%20ORIGIN">機動戦士ガンダムTHE ORIGIN</a></li>
+<li><a class="keyword" href="https://d.hatena.ne.jp/keyword/%A4%E4%A4%CF%A4%EA%B2%B6%A4%CE%C0%C4%BD%D5%A5%E9%A5%D6%A5%B3%A5%E1%A4%CF%A4%DE%A4%C1%A4%AC%A4%C3%A4%C6%A4%A4%A4%EB%A1%A3">やはり俺の青春ラブコメはまちがっている。</a></li>
+<li>86―エイティシックス―</li>
+<li><a class="keyword" href="https://d.hatena.ne.jp/keyword/%A5%EA%A5%B3%A5%EA%A5%B9">リコリス</a>・リコイル</li>
+</ul>
+
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 好きな漫画
+BASENAME: 2024/01/02/001808
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/02/2024 00:18:08
+-----
+BODY:
+<p>自分のことがいまいちわからない。。。という一環で好きな漫画をつらつらあげていく。順番は適当です。</p>
+
+<ul>
+<li>キングダム</li>
+<li><a class="keyword" href="https://d.hatena.ne.jp/keyword/%A5%EF%A1%BC%A5%EB%A5%C9%A5%C8%A5%EA%A5%AC%A1%BC">ワールドトリガー</a></li>
+<li>アンダーニンジャ</li>
+<li><a class="keyword" href="https://d.hatena.ne.jp/keyword/%A5%C0%A1%BC%A5%A6%A5%A3%A5%F3">ダーウィン</a>ズゲーム</li>
+<li><a class="keyword" href="https://d.hatena.ne.jp/keyword/%BE%AD%B9%F1%A4%CE%A5%A2%A5%EB%A5%BF%A5%A4%A5%EB">将国のアルタイル</a></li>
+</ul>
+
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 2023年の技術トピックをふりかえる
+BASENAME: 2024/01/01/100150
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/01/2024 10:01:50
+-----
+BODY:
+<h2 id="総括">総括</h2>
+
+<p>Julia言語に入門した年でした。来年は就職したい。</p>
+
+<h3 id="競技プログラミング"><a class="keyword" href="https://d.hatena.ne.jp/keyword/%B6%A5%B5%BB%A5%D7%A5%ED%A5%B0%A5%E9%A5%DF%A5%F3%A5%B0">競技プログラミング</a></h3>
+
+<h4 id="Project-Euler"><a class="keyword" href="https://d.hatena.ne.jp/keyword/Project%20Euler">Project Euler</a></h4>
+
+<p>6問解いたようだった。昔は、150問くらい解いていたようだがGo言語の入門と同時にやって挫折してしまった。</p>
+
+<h4 id="アルゴ式">アルゴ式</h4>
+
+<p>299問解いたようだ。偉い。バニラJSが何となく書けるようになった気がしました。</p>
+
+<h4 id="AtCoder"><a class="keyword" href="https://d.hatena.ne.jp/keyword/AtCoder">AtCoder</a></h4>
+
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fgithub.com%2F1s22s1%2F2023_atcoder_dairy" title="GitHub - 1s22s1/2023_atcoder_dairy" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://github.com/1s22s1/2023_atcoder_dairy">github.com</a></cite></p>
+
+<p><a class="keyword" href="https://d.hatena.ne.jp/keyword/%A5%A2%A5%EB%A5%B4%A5%EA%A5%BA%A5%E0">アルゴリズム</a>的思考力が身につく！ <a class="keyword" href="https://d.hatena.ne.jp/keyword/%A5%D7%A5%ED%A5%B0%A5%E9%A5%DF%A5%F3%A5%B0%A5%B3%A5%F3%A5%C6%A5%B9%A5%C8">プログラミングコンテスト</a><a class="keyword" href="https://d.hatena.ne.jp/keyword/AtCoder">AtCoder</a>入門で入門した。ちなみに、レートは188で2023年を終えました。</p>
+
+<h2 id="RubyのGemの作成"><a class="keyword" href="https://d.hatena.ne.jp/keyword/Ruby">Ruby</a>のGemの作成</h2>
+
+<p>所謂、盆栽作業をやっていた。</p>
+
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fgithub.com%2F1s22s1%2Fsocial_distance" title="GitHub - 1s22s1/social_distance" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://github.com/1s22s1/social_distance">github.com</a></cite></p>
+
+<p>文字列に空白を入れるやつ。</p>
+
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fgithub.com%2F1s22s1%2Firotsukegakari" title="GitHub - 1s22s1/irotsukegakari" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://github.com/1s22s1/irotsukegakari">github.com</a></cite></p>
+
+<p><a class="keyword" href="https://d.hatena.ne.jp/keyword/CLI">CLI</a>で文字に色をつけてくれるやつ。</p>
+
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fgithub.com%2F1s22s1%2Fmomo" title="GitHub - 1s22s1/momo" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://github.com/1s22s1/momo">github.com</a></cite></p>
+
+<p>ActiveHashの自作実装。</p>
+
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fgithub.com%2F1s22s1%2Fjapan_national_holiday" title="GitHub - 1s22s1/japan_national_holiday" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://github.com/1s22s1/japan_national_holiday">github.com</a></cite></p>
+
+<p>holiday_jpの自作実装。</p>
+
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fgithub.com%2F1s22s1%2Fchahar" title="GitHub - 1s22s1/chahar" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://github.com/1s22s1/chahar">github.com</a></cite></p>
+
+<p>setの自作実装。</p>
+
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fgithub.com%2F1s22s1%2Fshinoda" title="GitHub - 1s22s1/shinoda" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://github.com/1s22s1/shinoda">github.com</a></cite></p>
+
+<p>法人番号の<a class="keyword" href="https://d.hatena.ne.jp/keyword/%A5%C1%A5%A7%A5%C3%A5%AF%A5%C7%A5%B8%A5%C3%A5%C8">チェックデジット</a>を計算する。</p>
+
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fgithub.com%2F1s22s1%2Fdoguu%3Ftab%3Dreadme-ov-file" title="GitHub - 1s22s1/doguu" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://github.com/1s22s1/doguu?tab=readme-ov-file">github.com</a></cite></p>
+
+<p>算術平均、幾何平均、調和平均、分散を計算する。</p>
+
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fgithub.com%2F1s22s1%2Fbotanyuki" title="GitHub - 1s22s1/botanyuki" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://github.com/1s22s1/botanyuki">github.com</a></cite></p>
+
+<p>データを元に線形回帰する。</p>
+
+<h2 id="自作正規表現エンジン">自作<a class="keyword" href="https://d.hatena.ne.jp/keyword/%C0%B5%B5%AC%C9%BD%B8%BD">正規表現</a>エンジン</h2>
+
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fgithub.com%2F1s22s1%2Fepsilon%2Ftree%2Fmain" title="GitHub - 1s22s1/epsilon" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://github.com/1s22s1/epsilon/tree/main">github.com</a></cite></p>
+
+<p>ϵ-NFAの受理を実装してみた。</p>
+
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fgithub.com%2F1s22s1%2FChin.jl" title="GitHub - 1s22s1/Chin.jl" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://github.com/1s22s1/Chin.jl">github.com</a></cite></p>
+
+<p>NFAの作成からシュミレートしての受理判定までやってみた。来年は、もう少し領域を広げて作りたい。プロジェクトコード自体は考えていて「青林檎」と<a class="keyword" href="https://d.hatena.ne.jp/keyword/%CC%BF%CC%BE">命名</a>しました。</p>
+
+<h2 id="GraphQL">GraphQL</h2>
+
+<p>スライドを準備して発表までしました。個人的な感想としては、ソフトウェアの規模が大きくないとフィットしない気がしました。</p>
+
+<h2 id="Go言語">Go言語</h2>
+
+<p>機会があったので、少しやった。あまり私のパーソナリティやメンタルモデルとはあわないかなぁ。</p>
+
+<h2 id="その他">その他</h2>
+
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fgithub.com%2F1s22s1%2Fnatsume" title="GitHub - 1s22s1/natsume" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://github.com/1s22s1/natsume">github.com</a></cite></p>
+
+<p><a class="keyword" href="https://d.hatena.ne.jp/keyword/SQLite">SQLite</a>向けのデータを準備してみた。これでいつでも直ぐに機能をためせるぜ。といいつつ、活躍の機会を待ち中です。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: よく聞くPodcast
+BASENAME: 2024/01/01/085424
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 01/01/2024 08:54:24
+-----
+BODY:
+<p>よく聞く<a class="keyword" href="https://d.hatena.ne.jp/keyword/Podcast">Podcast</a>を紹介したいと思います。</p>
+
+<h2 id="あらBfm">あらB.fm</h2>
+
+<p>回によってだいぶ色が異なる。なので、興味のありそうな回を何度も聞いている。</p>
+
+<h2 id="英ワタ">英ワタ</h2>
+
+<p><a class="keyword" href="https://d.hatena.ne.jp/keyword/%A4%B5%A4%AF%A4%E9%C4%CC%BF%AE">さくら通信</a>経由で聞いている。英語の勉強には？？なっているのかな。カナダ在住の山本さんの会話とさくらさんの掛け合いが面白く聞いている。</p>
+
+<h2 id="Interaxion">Interaxion</h2>
+
+<p>主に物性物理界隈主催の<a class="keyword" href="https://d.hatena.ne.jp/keyword/Podcast">Podcast</a>。部品さんのファンなので聞いている。</p>
+
+<h2 id="海外ブラックロード">海外ブラックロード</h2>
+
+<p>こちらも<a class="keyword" href="https://d.hatena.ne.jp/keyword/%A4%B5%A4%AF%A4%E9%C4%CC%BF%AE">さくら通信</a>経由で聞いている。良い意味で力が抜けているところが、自分に合っていると思う。</p>
+
+<h2 id="さくら通信"><a class="keyword" href="https://d.hatena.ne.jp/keyword/%A4%B5%A4%AF%A4%E9%C4%CC%BF%AE">さくら通信</a></h2>
+
+<p>第一回から聞いている。このPoscast経由で結婚できた方もいるそう。婚活中のみなさんもどうぞ。</p>
+
+<h2 id="Misreading-Chat">Misreading Chat</h2>
+
+<p>森田さんのファンなので聞いている。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: Alina of the Arenaを始めた
+BASENAME: 2023/12/31/103406
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 12/31/2023 10:34:06
+-----
+BODY:
+<p>朝の４時までやって、地下闘技場の制覇までやりました。結構パターンが分かってきたような気がします。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 2023年 AtCoder振り返り
+BASENAME: 2023/12/30/220512
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 12/30/2023 22:05:12
+-----
+BODY:
+<p>0 → 188(+188)</p>
+
+<p>A、Bがほとんど解けて、Cが確率的に解けるようになりました。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: Loop Heroをやった
+BASENAME: 2023/12/30/204345
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 12/30/2023 20:43:45
+-----
+BODY:
+<p>チャプター４は勝てなく、チャプター３まで。</p>
+<p> </p>
+<p>結構難しいぞ。</p>
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: ストレスが強すぎて一瞬で頭痛する
+BASENAME: 2023/12/24/175142
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 12/24/2023 17:51:42
+-----
+BODY:
+<p>そういうこともあると思います。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
 TITLE: Star Survivorのクリア
 BASENAME: 2023/12/23/171655
 STATUS: Publish
