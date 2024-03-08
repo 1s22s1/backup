@@ -1,4 +1,701 @@
 AUTHOR: mugi-1s22s1
+TITLE: ウクライナ動乱を読んだ
+BASENAME: 2024/03/07/190933
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 03/07/2024 19:09:33
+-----
+BODY:
+<p>体制変更戦争のところから。</p>
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 挨拶
+BASENAME: 2024/03/07/185856
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 03/07/2024 18:58:56
+-----
+BODY:
+<p>つるやの前で知らない人から挨拶された。めずらしいね。</p>
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: AtCoder現状
+BASENAME: 2024/03/06/191448
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 03/06/2024 19:14:48
+-----
+BODY:
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/m/mugi-1s22s1/20240306/20240306191358.png" width="1144" height="502" loading="lazy" title="" class="hatena-fotolife" itemprop="image"></span></p>
+
+<p>ABを１００問づつ解いて基礎固めは出来たので、次はレーティングを上げていく方向にします。皆さんご期待ください！！</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: すいかゲーム
+BASENAME: 2024/03/06/082107
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 03/06/2024 08:21:07
+-----
+BODY:
+<p><a class="keyword" href="https://d.hatena.ne.jp/keyword/Android">Android</a>版がなくて悲しい。でもLINEアイコンは可愛いです。</p>
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 良いお話だなと思いました。
+BASENAME: 2024/03/05/153118
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 03/05/2024 15:31:18
+-----
+BODY:
+<p><blockquote data-conversation="none" class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">しかし<a class="keyword" href="https://d.hatena.ne.jp/keyword/%C2%E7%BB%CA%B6%B5">大司教</a>、無職になった私に会いにわざわざ練馬まできて今後の為に資格とった方がいいとか話してくれて、勉強の為に施工管理の参考書をくれて本屋にまで連れて行ってくれたので、ブルアカの先生と同じくらい面倒見が良い。</p>&mdash; ATちゃん (@atkyoudan) <a href="https://twitter.com/atkyoudan/status/1764636123131974052?ref_src=twsrc%5Etfw">2024年3月4日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  </p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 母
+BASENAME: 2024/03/05/151256
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 03/05/2024 15:12:56
+-----
+BODY:
+<p>止めて欲しいって言って辞めてくれないのでとても困っています。</p>
+<p> </p>
+<p>毎日とてもとても暗く辛いです。</p>
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: タイムウォーカー：ダークワールド
+BASENAME: 2024/03/04/224843
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 03/04/2024 22:48:43
+-----
+BODY:
+<p>ヘルを突破したので、終わり。</p>
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 元々は食品会社で働いていた
+BASENAME: 2024/03/04/103620
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 03/04/2024 10:36:20
+-----
+BODY:
+<p>そんな過去もありました。</p>
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: ラーメン食べた
+BASENAME: 2024/03/03/183706
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 03/03/2024 18:37:06
+-----
+BODY:
+<p><a class="keyword" href="https://d.hatena.ne.jp/keyword/%CB%CC%C4%B9%CC%EE%B1%D8">北長野駅</a>の烈士洵名でラーメンを食べた。美味しかったです。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 長野で下水道の蓋が少ない理由
+BASENAME: 2024/03/01/161252
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 03/01/2024 16:12:52
+-----
+BODY:
+<p>雪を落としたいからだと思いました。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 350点問題が解けた
+BASENAME: 2024/02/27/081302
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/27/2024 08:13:02
+-----
+BODY:
+<p>次の目標は、茶色か４００点問題を解くことです。</p>
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: Time Walker
+BASENAME: 2024/02/27/073801
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/27/2024 07:38:01
+-----
+BODY:
+<p>面白いがなかなか難しいぜ。</p>
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: レーティングが安定しないについての考察
+BASENAME: 2024/02/27/073739
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/27/2024 07:37:39
+-----
+BODY:
+<p>何となく特定<a class="keyword" href="https://d.hatena.ne.jp/keyword/%A5%A2%A5%EB%A5%B4%A5%EA%A5%BA%A5%E0">アルゴリズム</a>を知っていてレーティングがはねて、普段は下がり気味みたいなのを思いつきました。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 私も良くある
+BASENAME: 2024/02/26/225843
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/26/2024 22:58:43
+-----
+BODY:
+<p><blockquote data-conversation="none" class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr"><a class="keyword" href="https://d.hatena.ne.jp/keyword/%BD%A4%BB%CE">修士</a>の頃に面倒見てくれてた先生（当時は<a class="keyword" href="https://d.hatena.ne.jp/keyword/%A5%DD%A5%B9%A5%C9%A5%AF">ポスドク</a>）になんとなく嫌われている気がしていた（なぜならば当時の俺はかなり傲慢で愚かだったので…）（思い出すと嫌な気持ちになる…）けど会ったら俺が出した論文も読んでくれてたし博論の相談も乗ってくれてたし沢山褒めてくれたので全然嫌われてなかった</p>&mdash; ふくさん (@fukusanity) <a href="https://twitter.com/fukusanity/status/1637380425525112834?ref_src=twsrc%5Etfw">2023年3月19日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  </p>
+
+<p><blockquote data-conversation="none" class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">俺の人生はこういうことが多過ぎる。「嫌われてるかも」と思って久しぶりに会ったら「オイッスー元気してた！？」って言われて拍子抜けするみたいな。昔の自分に自信がなさ過ぎることとか根がネガティブ（根ガティブ）なのが要因だろう</p>&mdash; ふくさん (@fukusanity) <a href="https://twitter.com/fukusanity/status/1637387356717330435?ref_src=twsrc%5Etfw">2023年3月19日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  </p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 統計検定２級と３級
+BASENAME: 2024/02/26/190841
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/26/2024 19:08:41
+-----
+BODY:
+<p>どちらを受けるか迷いましたが、３級を受けて正解でした。うむうむ自分の能力だと２級が間に合わないと思ったんだよね〜。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: ダイソーで
+BASENAME: 2024/02/26/190737
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/26/2024 19:07:37
+-----
+BODY:
+<p>チョコクリームとストロベリーチョコを買いました。美味しかったです。</p>
+
+<p>店員の女の子は、とても親切ではありませんでした。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: マジッククラフトの困難
+BASENAME: 2024/02/26/073510
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/26/2024 07:35:10
+-----
+BODY:
+<p>をクリアしたので、今度こそ全クリです。次の階層が待ち遠しいです。</p>
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 外食
+BASENAME: 2024/02/25/074519
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/25/2024 07:45:19
+-----
+BODY:
+<p>飽きたので、辞めるぞ〜。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: これで困っている
+BASENAME: 2024/02/24/201957
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/24/2024 20:19:57
+-----
+BODY:
+<p><blockquote data-conversation="none" class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">エンジニアを目指す各位 <a href="https://t.co/Lx0BgmRV5b">pic.twitter.com/Lx0BgmRV5b</a></p>&mdash; 麹 (@oryzae1824) <a href="https://twitter.com/oryzae1824/status/1760801957705547898?ref_src=twsrc%5Etfw">2024年2月22日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  </p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 可愛い
+BASENAME: 2024/02/24/082117
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/24/2024 08:21:17
+-----
+BODY:
+<p><blockquote data-conversation="none" class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">地図のゼンリンがめちゃかわなピンズ売ってる！！！！！😍<br>見てよこの北陸😍<a href="https://t.co/WulPRH6XWu">https://t.co/WulPRH6XWu</a> <a href="https://t.co/IyD80F19qL">pic.twitter.com/IyD80F19qL</a></p>&mdash; なな (@moonywolf7) <a href="https://twitter.com/moonywolf7/status/1760788929736016080?ref_src=twsrc%5Etfw">2024年2月22日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  </p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 最近の好き
+BASENAME: 2024/02/23/081607
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/23/2024 08:16:07
+-----
+BODY:
+<p><blockquote data-conversation="none" class="twitter-tweet" data-lang="ja"><p lang="sv" dir="ltr">Elna Frederick<br>Chan Deck 2<a href="https://twitter.com/hashtag/tendered?src=hash&amp;ref_src=twsrc%5Etfw">#tendered</a> <a href="https://t.co/NoyR7Cxkts">pic.twitter.com/NoyR7Cxkts</a></p>&mdash; Jamie Gourlay (@jamiegourlay) <a href="https://twitter.com/jamiegourlay/status/1753727056389505312?ref_src=twsrc%5Etfw">2024年2月3日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  </p>
+
+<p><blockquote data-conversation="none" class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">キラキラのお品書 <a href="https://t.co/XFrTNMKDdX">pic.twitter.com/XFrTNMKDdX</a></p>&mdash; おっきい芋🥑 (@imo_dekai) <a href="https://twitter.com/imo_dekai/status/1753894910175199676?ref_src=twsrc%5Etfw">2024年2月3日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  </p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: これこれ
+BASENAME: 2024/02/23/081427
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/23/2024 08:14:27
+-----
+BODY:
+<p><blockquote data-conversation="none" class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">努力以上の成果を出す裏技、「毎日やる」を実行するか………</p>&mdash; ふくさん (@fukusanity) <a href="https://twitter.com/fukusanity/status/1428379554222010369?ref_src=twsrc%5Etfw">2021年8月19日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  </p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 点に宝を
+BASENAME: 2024/02/22/094036
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/22/2024 09:40:36
+-----
+BODY:
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 映画３回みた
+BASENAME: 2024/02/22/080929
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/22/2024 08:09:29
+-----
+BODY:
+<p><a class="keyword" href="https://d.hatena.ne.jp/keyword/%A5%AC%A5%F3%A5%C0%A5%E0seed">ガンダムseed</a>は、面白いぜ。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 良くなったこと
+BASENAME: 2024/02/22/080854
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/22/2024 08:08:54
+-----
+BODY:
+<p>躓かなくなったぜ。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 好きな水槽
+BASENAME: 2024/02/21/074312
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/21/2024 07:43:12
+-----
+BODY:
+<p><blockquote data-conversation="none" class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">水生植物園の図書コーナーの水槽 <a href="https://t.co/n2cYoZxWMr">pic.twitter.com/n2cYoZxWMr</a></p>&mdash; 豊井 (@1041uuu) <a href="https://twitter.com/1041uuu/status/1685128639342678017?ref_src=twsrc%5Etfw">2023年7月29日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  </p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: フラッシュバックした
+BASENAME: 2024/02/20/050113
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/20/2024 05:01:13
+-----
+BODY:
+<p>本当に出来ない時に〇〇と言われて、無理やりやらされたのをフラッシュバックして言動が乱れました。旦那から<a class="keyword" href="https://d.hatena.ne.jp/keyword/PTSD">PTSD</a>って指摘されたけど、まじそうやんけ。</p>
+
+<p>後になって振り返ると普通にそんな言動しないんよな。。。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: AtCoder、解く時間を早くすると良さそう
+BASENAME: 2024/02/18/062844
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/18/2024 06:28:44
+-----
+BODY:
+<table>
+<thead>
+<tr>
+<th>大会</th>
+<th>A</th>
+<th>B</th>
+<th>C</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ABC338</td>
+<td>4:04</td>
+<td>10:11</td>
+<td></td>
+</tr>
+<tr>
+<td>ABC339</td>
+<td>2:16</td>
+<td>28:01</td>
+<td>60:33</td>
+</tr>
+<tr>
+<td>ABC341</td>
+<td>2:30</td>
+<td>23:27</td>
+<td>69:17</td>
+</tr>
+</tbody>
+</table>
+
+
+<p>直近のデータを眺めていて思いました。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: code=cd
+BASENAME: 2024/02/16/181034
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/16/2024 18:10:34
+-----
+BODY:
+<p>とある書籍をみたらcodeをcdと省略していて、どうなんじゃろね？と思った。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 音に敏感
+BASENAME: 2024/02/16/172002
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/16/2024 17:20:02
+-----
+BODY:
+<p>今日スーパーのレジの自動音声が甲高くて辛かったな。少し疲れたり、調子が悪いかもです。。。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: アルゴ式、現状
+BASENAME: 2024/02/16/170119
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/16/2024 17:01:19
+-----
+BODY:
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/m/mugi-1s22s1/20240216/20240216170104.png" width="1200" height="421" loading="lazy" title="" class="hatena-fotolife" itemprop="image"></span></p>
+
+<p>リセットしてやり直します。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 分かってきた
+BASENAME: 2024/02/16/164615
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/16/2024 16:46:15
+-----
+BODY:
+<p>気分が良いとか優れているとか分かってきた。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 我慢する
+BASENAME: 2024/02/15/070740
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/15/2024 07:07:40
+-----
+BODY:
+<p>また、アイスを食べ始めているので、、、</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 最近気づいたこと
+BASENAME: 2024/02/15/063407
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/15/2024 06:34:07
+-----
+BODY:
+<p>他人の社会的地位とか。。。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: ロト７を買った
+BASENAME: 2024/02/14/180855
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/14/2024 18:08:55
+-----
+BODY:
+<p>当たるとよいなぁ〜。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 興味のありか
+BASENAME: 2024/02/14/110025
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/14/2024 11:00:25
+-----
+BODY:
+<p>私は<a class="keyword" href="https://d.hatena.ne.jp/keyword/%A5%D7%A5%ED%A5%B0%A5%E9%A5%DF%A5%F3%A5%B0%B8%C0%B8%EC">プログラミング言語</a>自体というより、もう少し詳細要素に興味があることが分かりました。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: DALL-E
+BASENAME: 2024/02/14/071630
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/14/2024 07:16:30
+-----
+BODY:
+<p>DALL-E、すごい感動しました。これは、仕事が無くなると言われてもしょうがないね、、、</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 適切な
+BASENAME: 2024/02/13/143234
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/13/2024 14:32:34
+-----
+BODY:
+<p>適切な〇〇の適切、あまり意味を理解していない、、、</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 幸運の大家族様
+BASENAME: 2024/02/12/132449
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/12/2024 13:24:49
+-----
+BODY:
+<p>２０階まで完了（クリア）しました。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 供養
+BASENAME: 2024/02/12/070712
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/12/2024 07:07:12
+-----
+BODY:
+<ul>
+<li>論理学</li>
+<li>覚えておきたい新料理の基本</li>
+<li>Kwaii Engineering</li>
+<li>実践Julia</li>
+</ul>
+
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 魔王
+BASENAME: 2024/02/11/202026
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/11/2024 20:20:26
+-----
+BODY:
+<p>を供養しました。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: お気に入り
+BASENAME: 2024/02/11/140115
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/11/2024 14:01:15
+-----
+BODY:
+<p><blockquote data-conversation="none" class="twitter-tweet" data-lang="ja"><p lang="en" dir="ltr">&#39;$park&#39;<br><br>Minted on HEN Jul 18, 2021 <a href="https://t.co/3oxZPCpAuP">pic.twitter.com/3oxZPCpAuP</a></p>&mdash; 1mpo$ter (@_1mposter) <a href="https://twitter.com/_1mposter/status/1748784700263440457?ref_src=twsrc%5Etfw">2024年1月20日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  </p>
+
+<p><blockquote data-conversation="none" class="twitter-tweet" data-lang="ja"><p lang="en" dir="ltr">Holographic meteor shower 💫 <a href="https://t.co/2BE3LWJpdG">pic.twitter.com/2BE3LWJpdG</a></p>&mdash; 𝗚𝗢𝗚𝗢𝗟𝗜𝗧𝗨𝗦 (@Gogolitus) <a href="https://twitter.com/Gogolitus/status/1749849084830106035?ref_src=twsrc%5Etfw">2024年1月23日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  </p>
+
+<p><blockquote data-conversation="none" class="twitter-tweet" data-lang="ja"><p lang="en" dir="ltr">Rain is a chance to get closer 💙 <a href="https://twitter.com/hashtag/pixelart?src=hash&amp;ref_src=twsrc%5Etfw">#pixelart</a> <a href="https://t.co/24WDFy8ZJJ">pic.twitter.com/24WDFy8ZJJ</a></p>&mdash; AnasAbdin 🪐🌿 (@AnasAbdin) <a href="https://twitter.com/AnasAbdin/status/1751144243106599214?ref_src=twsrc%5Etfw">2024年1月27日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  </p>
+
+<p><blockquote data-conversation="none" class="twitter-tweet" data-lang="ja"><p lang="en" dir="ltr">𝚛𝚊𝚗𝚍𝚘𝚖() <a href="https://t.co/I8wU74YDqT">pic.twitter.com/I8wU74YDqT</a></p>&mdash; Yazid (@Yazid) <a href="https://twitter.com/Yazid/status/1752148004159803829?ref_src=twsrc%5Etfw">2024年1月30日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  </p>
+
+<p><blockquote data-conversation="none" class="twitter-tweet" data-lang="ja"><p lang="en" dir="ltr">🖱️𝑺𝒄𝒓𝒐𝒍𝒍 𝒎𝒂𝒏𝒊𝒂 🔄<a href="https://twitter.com/hashtag/pixelart?src=hash&amp;ref_src=twsrc%5Etfw">#pixelart</a> <a href="https://twitter.com/hashtag/%E3%83%89%E3%83%83%E3%83%88%E7%B5%B5?src=hash&amp;ref_src=twsrc%5Etfw">#ドット絵</a> <a href="https://t.co/1SoMw8sIvt">pic.twitter.com/1SoMw8sIvt</a></p>&mdash; 𝗚𝗢𝗚𝗢𝗟𝗜𝗧𝗨𝗦 (@Gogolitus) <a href="https://twitter.com/Gogolitus/status/1753396404326638043?ref_src=twsrc%5Etfw">2024年2月2日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  </p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 地球惑星科学
+BASENAME: 2024/02/11/065759
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/11/2024 06:57:59
+-----
+BODY:
+<p>入りたかったです。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 学んだこと
+BASENAME: 2024/02/10/175910
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/10/2024 17:59:10
+-----
+BODY:
+<p>人は理論無くして幸福だろう。私が哲学を学んで到達した心理の一つです。すなわち、神は否定の文脈でのみ存在し、今世では顕現しないだろうということです。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 徒然草
+BASENAME: 2024/02/10/105733
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/10/2024 10:57:33
+-----
+BODY:
+<p>供養致しました。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 実験と理論のトップ研究者の物性トーク
+BASENAME: 2024/02/10/085328
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/10/2024 08:53:28
+-----
+BODY:
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/A2Bdg3cFdPY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="実験と理論のトップ研究者の物性トーク"></iframe><cite class="hatena-citation"><a href="https://www.youtube.com/watch?v=A2Bdg3cFdPY">www.youtube.com</a></cite></p>
+
+<p>これ好き！！</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 低レイヤー好きがこうじて
+BASENAME: 2024/02/10/072055
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/10/2024 07:20:55
+-----
+BODY:
+<p>鉱山権の取得からやってしまう回。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: 体調復活
+BASENAME: 2024/02/09/093612
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/09/2024 09:36:12
+-----
+BODY:
+<p>躁でないか不安です。体調が復活したので、次のことが出来るようになりました。</p>
+
+<ul>
+<li>時間通りに動けるようになった。</li>
+<li>生活が出来るようになった。</li>
+</ul>
+
+
+-----
+--------
+AUTHOR: mugi-1s22s1
+TITLE: AtCoder近況
+BASENAME: 2024/02/09/093443
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: 0
+DATE: 02/09/2024 09:34:43
+-----
+BODY:
+<p><span itemscope itemtype="http://schema.org/Photograph"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/m/mugi-1s22s1/20240209/20240209093401.png" width="1200" height="546" loading="lazy" title="" class="hatena-fotolife" itemprop="image"></span></p>
+
+<p>書き方も安定してきたし、大著も復活してきて意識がはっきりしてきたので、次回のABCが楽しみ。</p>
+
+-----
+--------
+AUTHOR: mugi-1s22s1
 TITLE: 英単語のメモ
 BASENAME: 2024/02/08/204450
 STATUS: Publish
